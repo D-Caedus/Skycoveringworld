@@ -9,8 +9,8 @@
             <GLevel>Qi</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] One Heavy Sky \nAdding Rootbone1 \nPlus Divinity1
-                \nPlus Potential2 \nLearning Supernatural: Bitter Sea Waves[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] One Heavy Sky  \n Adding Rootbone1  \n Plus Divinity1
+                 \n Plus Potential2  \n Learning Supernatural: Bitter Sea Waves[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_1A</Modifier>
             <Magics>
                 <li>KHBT</li>
@@ -25,7 +25,7 @@
             <Desc>First name</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]Double Sky \nAdds an array load of 20 \nIncreases
+            <EffectDesc>[size=10][color=#D06508]Double Sky   \n  Adds an array load of 20  \n Increases
                 the maximum array skill level by 10[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_1A_1</Modifier>
         </Esoterica>
@@ -41,8 +41,8 @@
                 gate of all mysteries.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Triple Sky \nPlus Spirit Power 1500 \nPlus Practice
-                Speed ​​1 \nPlus Mind State 50[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Triple Sky  \n Plus Spirit Power 1500  \n Plus Practice
+                Speed ​​1  \n Plus Mind State 50[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_1A_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_A2">
@@ -54,8 +54,8 @@
             <GLevel>Qi</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Yitiantian \nPlus five-dimensional attributes
-                \nAdd furnace value 1500 \nLearn magic: Feng Shui[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Yitiantian  \n Plus five-dimensional attributes
+                 \n Add furnace value 1500  \n Learn magic: Feng Shui[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_2A</Modifier>
             <Magics>
                 <li>FengshuiItemCreate</li>
@@ -70,8 +70,8 @@
             <Desc>It is known that good is good, but Sri Lanka is not good.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nDecrease Heaven's Condemnation -15
-                \nAdd Personal Reiki1000 \nAdd Personal Resurrection 2[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Decrease Heaven's Condemnation -15
+                 \n Add Personal Reiki1000  \n Add Personal Resurrection 2[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_2A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_A2_2">
@@ -85,7 +85,7 @@
                 phase follows.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Triple Sky \nplus potential \nplus life 800 \nplus
+            <EffectDesc>[size=10][color=#D06508] Triple Sky  \n plus potential  \n plus life 800  \n plus
                 state of mind[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_2A_2</Modifier>
         </Esoterica>
@@ -98,8 +98,8 @@
             <Desc>Focus on your inner feelings and look at your heart.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease Momentum Base Value \nDecrease Spell
-                Cooldown \nIncrease Spell Damage[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase Momentum Base Value  \n Decrease Spell
+                Cooldown  \n Increase Spell Damage[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_1B</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_B1_1">
@@ -111,8 +111,8 @@
             <Desc>How can things outside the body bother people?</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease magic power 6 \nIncrease magic power
-                3 \nDecrease mana cost[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase magic power 6  \n Increase magic power
+                3  \n Decrease mana cost[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_1B_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_B1_2">
@@ -124,8 +124,8 @@
             <Desc>How can things outside the body bother people?</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nAcquired Magical Powers: Zhou Tian's Divine
-                Calculation \nAcquired Magical Powers: Orogeny \nAcquired Magical Powers:
+            <EffectDesc>[size=10][color=#D06508] \n Acquired Magical Powers: Zhou Tian's Divine
+                Calculation  \n Acquired Magical Powers: Orogeny  \n Acquired Magical Powers:
                 Spirit Rhino Charm[/color][/size]</EffectDesc>
             <Magics>
                 <li>LingXiZhou</li>
@@ -142,8 +142,8 @@
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Yizhongtian \nPlus furnace value 2000 \nPlus
-                opportunity 2 \nAdding treasure regain ratio 3[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Yizhongtian  \n Plus furnace value 2000  \n Plus
+                opportunity 2  \n Adding treasure regain ratio 3[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_2B</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_B2_1">
@@ -155,8 +155,8 @@
             <Desc>What is the word, but there are no words.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nGas Sea Level Limit 8 \nAdditional
-                scale 3 \nAdditional load 32[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Gas Sea Level Limit 8  \n Additional
+                scale 3  \n Additional load 32[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_2B_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_B3">
@@ -168,9 +168,9 @@
             <Desc>Have a clear conscience and be true to the world.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Yitiantian \nDecrease the speed of practice \nAdd
-                the success rate of alchemy \nAdd the success rate of alchemy \nAdd the
-                speed of alchemy \nAdd the speed of alchemist \nLearn the secret: inaction[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Yitiantian  \n Decrease the speed of practice  \n Add
+                the success rate of alchemy  \n Add the success rate of alchemy  \n Add the
+                speed of alchemy  \n Add the speed of alchemist  \n Learn the secret: inaction[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_3B</Modifier>
             <Skills>
                 <li>ZT_DJ_WW</li>
@@ -185,8 +185,8 @@
             <Desc>As the Tao, the Tao needs no words.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nReduce practice speed \nAdd alchemy
-                output \nPlus alchemy level \nAdd refiner level \nAdd refiner level \nLearn
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Reduce practice speed  \n Add alchemy
+                output  \n Plus alchemy level  \n Add refiner level  \n Add refiner level  \n Learn
                 the secret: speak (reduce the opponent's 3x magic power for 60s )[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_3B_1</Modifier>
             <Skills>
@@ -202,8 +202,8 @@
             <Desc>Baoyuan Shouyi found the root.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nAddition skill level 6 \nUpper formation skill
-                limit 6 \n Learned formation: several [/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Addition skill level 6  \n Upper formation skill
+                limit 6  \n  Learned formation: several [/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_1C</Modifier>
             <ZhenNodes>
                 <li>bamen_0</li>
@@ -238,7 +238,7 @@
             <Desc>The heart is right, the only one.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearned formations: several first-order formations
+            <EffectDesc>[size=10][color=#D06508] \n Learned formations: several first-order formations
                 [/color][/size]</EffectDesc>
             <ZhenNodes>
                 <li>ZhenMainNode_Lv1_3_2</li>
@@ -279,7 +279,7 @@
             <Desc>The heart is right, the only one.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nBreakthrough the Limit of Matrix 6 [/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Breakthrough the Limit of Matrix 6 [/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_1C_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_SJ_C2_YQ">
@@ -292,7 +292,7 @@
                 three talents are genius, talent, and land talent</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \n Heaven[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n  Heaven[/color][/size]</EffectDesc>
             <Skills>
                 <li>TDJ_SJ_SQ_TQ</li>
             </Skills>
@@ -307,7 +307,7 @@
                 geography. The so-called three talents are genius, talent, and land talent</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \nDiqing[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n Diqing[/color][/size]</EffectDesc>
             <Skills>
                 <li>TDJ_SJ_SQ_DQ</li>
             </Skills>
@@ -321,7 +321,7 @@
             <Desc>三清指"三才"为天格、人格、地格。所谓三才，即天才、人才、地才</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]nLearn Mystery: \nTalent[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]nLearn Mystery:  \n Talent[/color][/size]</EffectDesc>
             <Skills>
                 <li>TDJ_SJ_SQ_Rc</li>
             </Skills>
@@ -335,8 +335,8 @@
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nPlus practice speed 2 \nAdd matrix method to
-                meet 40 \nPlus personal return 4[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Plus practice speed 2  \n Add matrix method to
+                meet 40  \n Plus personal return 4[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_3C</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_C3_1">
@@ -348,8 +348,8 @@
             <Desc>I live in a pure place to observe time and everything.</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] \nAdding Spell Power 6 \nAdding Spell Power 6
-                \nAdding Spell Size 2[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Adding Spell Power 6  \n Adding Spell Power 6
+                 \n Adding Spell Size 2[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_3C_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_HL_D1">
@@ -362,8 +362,8 @@
             <GLevel>God</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Magic Land \nPlus Aura Recovery Speed ​​2 \nPlus
-                Aura Maximum 4 \nAdd Magical Knockback Resistance 5[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Magic Land  \n Plus Aura Recovery Speed ​​2  \n Plus
+                Aura Maximum 4  \n Add Magical Knockback Resistance 5[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_HL_1D</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_HL_D1_1">
@@ -376,8 +376,8 @@
                 the laws of the sky.</Desc>
             <GLevel>God</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] Law days \nDecrease the condemnation value 40
-                \nDecrease Dao 50 \nDecrease spell cooldown by 0.25[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Law days  \n Decrease the condemnation value 40
+                 \n Decrease Dao 50  \n Decrease spell cooldown by 0.25[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_HL_1D_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_HL_D1_2">
@@ -390,8 +390,8 @@
                 the Tao and endlessly.</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] Methodology \nAdd the number of magic treasures
-                1 \nAdd the maximum magic power of magic 2 \nAcquisition: \n 道 韵 natural[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Methodology  \n Add the number of magic treasures
+                1  \n Add the maximum magic power of magic 2  \n Acquisition:  \n  道 韵 natural[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_HL_1D_2</Modifier>
             <Skills>
                 <li>DJ_DYZR</li>
@@ -407,8 +407,8 @@
                 three, and three born all things.</Desc>
             <GLevel>God</GLevel>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Embryo \nPlus refiner success rate \nPlus refiner
-                speed \nPlus artifact success rate[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Embryo  \n Plus refiner success rate  \n Plus refiner
+                speed  \n Plus artifact success rate[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_HL_2D</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_HL_D2_1">
@@ -419,8 +419,8 @@
             <Difficulty>15</Difficulty>
             <Desc>One leaf of gold book cuts three immortals!</Desc>
             <GLevel>God2</GLevel>
-            <EffectDesc>[size=10][color=#D06508] Ding Cheng \nRefiner quality bonus \nRefinement
-                artifact probability \nLearned[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Ding Cheng  \n Refiner quality bonus  \n Refinement
+                artifact probability  \n Learned[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_HL_2D_1</Modifier>
             <Fabaos>
                 <li>ZT_DJ_MDJS</li>
@@ -435,7 +435,7 @@
             <Desc>Embracing yin and yang, Lu Shou real body.</Desc>
             <GLevel>God</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \nNegative Yin Huo Yang[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n Negative Yin Huo Yang[/color][/size]</EffectDesc>
             <Skills>
                 <li>ZT_DJ_YY</li>
             </Skills>
@@ -449,8 +449,8 @@
             <GLevel>God2</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] One Heavy Sky \nAdd Reiki Aura Recovery Speed
-                ​​3 \nAdd Reiki Recovery 4 \nIncrease Matrix Skill Level Up to Level 20[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] One Heavy Sky  \n Add Reiki Aura Recovery Speed
+                ​​3  \n Add Reiki Recovery 4  \n Increase Matrix Skill Level Up to Level 20[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_XT_1F</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_XT_F1_1">
@@ -462,8 +462,8 @@
             <Desc>The biggest image is no sign.</Desc>
             <GLevel>God2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nPlus Shield Strength 1.5 \nPlus
-                Shield Coefficient 2.5 \nMaximum Spirit Power 4[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Plus Shield Strength 1.5  \n Plus
+                Shield Coefficient 2.5  \n Maximum Spirit Power 4[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_XT_1F_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJ_WEBZ">
@@ -475,7 +475,7 @@
             <Desc>There is something to be done without dispute.</Desc>
             <GLevel>God2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \nDo not fight[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n Do not fight[/color][/size]</EffectDesc>
             <Skills>
                 <li>ZT_BZ</li>
             </Skills>
@@ -489,9 +489,9 @@
             <Desc>Red dust becomes immortal, and the world is proved.</Desc>
             <GLevel>God2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nJia Shou Yuan and Ling Hui Multiplier \nPlus
-                Thirty Primal Distractions \nPlus Furnace Ding \nPlus Artifact Success
-                Rate \nAdditional Power and Addition Power[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Jia Shou Yuan and Ling Hui Multiplier  \n Plus
+                Thirty Primal Distractions  \n Plus Furnace Ding  \n Plus Artifact Success
+                Rate  \n Additional Power and Addition Power[/color][/size]</EffectDesc>
             <Modifier>Gong_DJ_XT_DZ</Modifier>
             <GodSoulCount>30</GodSoulCount>
         </Esoterica>

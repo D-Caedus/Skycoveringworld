@@ -11,7 +11,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    Yitian    \nAdded root bone1\nAdd God 1\nPlus potential 2\nAcquired Supernatural Powers: Bitter Sea Waves[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Yitian     \n Added root bone1 \n Add God 1 \n Plus potential 2 \n Acquired Supernatural Powers: Bitter Sea Waves[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_1A</Modifier>
 		<Magics>
 			<li>KHBT</li>
@@ -26,7 +26,7 @@
 		<Desc>First name</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]   Double sky  \nAdd matrix load 20\nIncrease the maximum magic skill level by 10[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Double sky   \n Add matrix load 20 \n Increase the maximum magic skill level by 10[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_1A_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_LH_A1_2">
@@ -38,7 +38,7 @@
 		<Desc>"Yes", the mother of all things. Therefore, often "nothing", want to see its wonderful; often "yes", want to see its magpie. The two are different from each other and have the same meaning. Mysterious and mysterious, the gate of all mysteries.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]    Mie Tian    \nPsychic value 1500\nIncrease training speed 1\nPlus mood 50[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Mie Tian     \n Psychic value 1500 \n Increase training speed 1 \n Plus mood 50[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_1A_2</Modifier>
 	</Esoterica>
 	
@@ -54,7 +54,7 @@
 		<Desc>In the void, a huge handprint quickly condenses.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]	\nAdd god consciousness 1 \nPlus battle level cap 10 \nLearn Mystery: \nVoid Fingerprints (permanently breaks the target's 10,000 psionic power cap each time)[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]	 \n Add god consciousness 1  \n Plus battle level cap 10  \n Learn Mystery:  \n Void Fingerprints (permanently breaks the target's 10,000 psionic power cap each time)[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_2A_XKDSY</Modifier>
 		<Skills>
 			<li>TDJ_DJ_XKDSY</li>
@@ -72,7 +72,7 @@
 		<Desc>The Eucharist's unique vision of the bitter sea is even more majestic than ordinary people.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nUp to 10 levels of aerated sea level \nPlus 2000 psionic power[/color][/size][/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Up to 10 levels of aerated sea level  \n Plus 2000 psionic power[/color][/size][/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_3A</Modifier>
 	</Esoterica>
 	
@@ -85,7 +85,7 @@
 		<Desc>The Eucharist's unique vision of the bitter sea is even more majestic than ordinary people.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nSignificantly increase Reiki 50 base value \nIncrease life 900 \nSignificantly increase Reiki recovery speed 100[/color][/size][/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Significantly increase Reiki 50 base value  \n Increase life 900  \n Significantly increase Reiki recovery speed 100[/color][/size][/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_3A_1</Modifier>
 	</Esoterica>
 	
@@ -100,7 +100,7 @@
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    Yitiantian \nPlus furnace value 2000 \nPlus chance1 \nPlus Charisma1[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Yitiantian  \n Plus furnace value 2000  \n Plus chance1  \n Plus Charisma1[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_1B</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_LH_B1_1">
@@ -112,7 +112,7 @@
 		<Desc>Three hundred and fifty miles to the west</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]    Double Sky \nAlchemy skill level cap 10 \nAlchemy speed bonus 1[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Double Sky  \n Alchemy skill level cap 10  \n Alchemy speed bonus 1[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_1B_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_LH_B1_2">
@@ -124,7 +124,7 @@
 		<Desc>The five elements are hidden, and the sky is set up to evoke the spirit of vitality. It spreads to the whole body, extends beyond the fur, and absorbs the origin of heaven and earth.</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]    Triple Sky \nPlus Spirit Regeneration50 \nAdditional Alchemy Bonus 4[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Triple Sky  \n Plus Spirit Regeneration50  \n Additional Alchemy Bonus 4[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_1B_2</Modifier>
 	</Esoterica>
 	
@@ -139,7 +139,7 @@
 		<Desc>Accept the heaven and earth aura, the art of creation.</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Tu</Element>
-		<EffectDesc>[size=10][color=#D06508]   Yizhongtian \nPlus Alchemy Speed ​​\nAdd Alchemy Success Rate \nLearned Magic: Feng Shui Appraisal \nLearned Magic: Prayer for Heaven Classics \nLearned Magic: Fengyue Fantasy[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Yizhongtian  \n Plus Alchemy Speed ​​ \n Add Alchemy Success Rate  \n Learned Magic: Feng Shui Appraisal  \n Learned Magic: Prayer for Heaven Classics  \n Learned Magic: Fengyue Fantasy[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_DG_1B</Modifier>
 		<Magics>
 			<li>AbsorbGong_2</li>
@@ -161,7 +161,7 @@
 		<Desc>Accept the heaven and earth aura, the art of creation.</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Tu</Element>
-		<EffectDesc>[size=10][color=#D06508]    Double Sky \nPlus Heaven's Value \nAdd Alchemy Yield \nAdd Alchemy Rank \nAcquire Two Fortune Telling Powers \nAcquire Powers: Move Mountains and Seas \nAcquire Powers: Make Spirit Crystals \nLearn Three Tempering Supernatural Powers[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Double Sky  \n Plus Heaven's Value  \n Add Alchemy Yield  \n Add Alchemy Rank  \n Acquire Two Fortune Telling Powers  \n Acquire Powers: Move Mountains and Seas  \n Acquire Powers: Make Spirit Crystals  \n Learn Three Tempering Supernatural Powers[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_DG_2B</Modifier>
 		<Magics>
 			<li>Prophesy</li>
@@ -188,7 +188,7 @@
 		<Desc>The ancient Tianting killer organization created homicide based on the nine secrets.</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508] \nIncrease the magic power by 5 times \nAdd the magic weapon to repel the distance 4 \nReduce the magic cooldown -0.25 \nLearn the mystery: \nKill the Holy Art (minus the armor buff and reduce the opponent's 3 magic shield 100s )[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]  \n Increase the magic power by 5 times  \n Add the magic weapon to repel the distance 4  \n Reduce the magic cooldown -0.25  \n Learn the mystery:  \n Kill the Holy Art (minus the armor buff and reduce the opponent's 3 magic shield 100s )[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_LH_3B_SDSS</Modifier>
 		<Skills>
 			<li>TDJ_DJ_SDSS</li>
@@ -206,7 +206,7 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Huo</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    Yitiantian \nPerception plus 1 consciousness plus 1 \nMaximum skill level 10 levels \nSpell power 5[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Yitiantian  \n Perception plus 1 consciousness plus 1  \n Maximum skill level 10 levels  \n Spell power 5[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_SJ_1C</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_SJ_C1_1">
@@ -218,7 +218,7 @@
 		<Desc>Depressing the Old Road is different</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Huo</Element>
-		<EffectDesc>[size=10][color=#D06508]   Double Sky \nReduces Spirit Power by 0.25 \nReduces Spell Mana by 0.25[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Double Sky  \n Reduces Spirit Power by 0.25  \n Reduces Spell Mana by 0.25[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_SJ_1C_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_SJ_C1_2">
@@ -230,7 +230,7 @@
 		<Desc>If you ask where is the avenue, Hengyu furnace turns into the sky</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Huo</Element>
-		<EffectDesc>[size=10][color=#D06508]    三重天    \nIncrease potential3 \nIncrease spell power by 10 \nDecrease spell cool by 0.25[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    三重天     \n Increase potential3  \n Increase spell power by 10  \n Decrease spell cool by 0.25[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_SJ_1C_2</Modifier>
 	</Esoterica>
 	
@@ -244,7 +244,7 @@
 		<Desc>Sanqing refers to the "three talents" as heavenly personality, personality, and personality. The so-called three talents are genius, talent, and land talent</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nLearning Mystery: \nTiange[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Learning Mystery:  \n Tiange[/color][/size]</EffectDesc>
 		<Skills>
 			<li>TDJ_SJ_SQ_TQ</li>
 		</Skills>
@@ -259,7 +259,7 @@
 		<Desc>Sanqing refers to the "three talents" as heavenly personality, personality, and personality. The so-called three talents are genius, talent, and land talent</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nLearning Mystery: \nDiqing[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Learning Mystery:  \n Diqing[/color][/size]</EffectDesc>
 		<Skills>
 			<li>TDJ_SJ_SQ_DQ</li>
 		</Skills>
@@ -274,7 +274,7 @@
 		<Desc>Sanqing refers to the "three talents" as heavenly personality, personality, and personality. The so-called three talents are genius, talent, and land talent</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \nTalent[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n Talent[/color][/size]</EffectDesc>
 		<Skills>
 			<li>TDJ_SJ_SQ_Rc</li>
 		</Skills>
@@ -290,7 +290,7 @@
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    Juyang \nAdd five-dimensional attributes \nAdd personal aura \nAdd personal Huiling[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Juyang  \n Add five-dimensional attributes  \n Add personal aura  \n Add personal Huiling[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_SJ_3C</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_SJ_C3_1">
@@ -302,7 +302,7 @@
 		<Desc>Evolving Tai Chi with the Method of Fighting and Fighting Sacred Law</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]   Overcast \nAdd bonus power 5 \nPlus shield value 2.5 \nPlus shield level up to ten levels[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Overcast  \n Add bonus power 5  \n Plus shield value 2.5  \n Plus shield level up to ten levels[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_SJ_3C_1</Modifier>
 	</Esoterica>
 	
@@ -315,7 +315,7 @@
 		<GLevel>God</GLevel>
 		<Element>Jin</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]   Nalun Yunlong \nAdditional Power Power 5 \nAdditional Power Power Max 2 \nMaximum Skill Level 10[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Nalun Yunlong  \n Additional Power Power 5  \n Additional Power Power Max 2  \n Maximum Skill Level 10[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_HL_1D</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_HL_D1_1">
@@ -327,7 +327,7 @@
 		<Desc>The Tai Huang Jing is the ancestor of the Da Xia Dynasty.</Desc>
 		<GLevel>God</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]    Aura-like dragon \nAdditional magic power recovery rate 1 \nAdditional magic power recovery 4 \nAdditional magic number 1[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Aura-like dragon  \n Additional magic power recovery rate 1  \n Additional magic power recovery 4  \n Additional magic number 1[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_HL_1D_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_HL_D1_2">
@@ -339,7 +339,7 @@
 		<Desc>The Tai Huang Jing is the ancestor of the Da Xia Dynasty.</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]    Emperor Road Dragon Power \nAdditional Power Power 6 \nAdder Power Repels Resistance 5 \nMystery: \nImperial Dragon Power (for 40 seconds, Magic Power Recovery Speed ​​and Magnification are doubled)[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Emperor Road Dragon Power  \n Additional Power Power 6  \n Adder Power Repels Resistance 5  \n Mystery:  \n Imperial Dragon Power (for 40 seconds, Magic Power Recovery Speed ​​and Magnification are doubled)[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_HL_1D_2</Modifier>
 		<Skills>
 			<li>TDJ_HL_HDLQ</li>
@@ -354,7 +354,7 @@
 		<Desc>One tripod, two ears, three feet. Tao is one, two for two, three for two, three things for three things, all things are negative and hold the sun</Desc>
 		<GLevel>God</GLevel>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]   Embryo \nplus refiner success rate \nplus refiner speed \nplus artifact success rate[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Embryo  \n plus refiner success rate  \n plus refiner speed  \n plus artifact success rate[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_HL_2D</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_HL_D2_1">
@@ -365,7 +365,7 @@
 		<Difficulty>10</Difficulty>
 		<Desc>One tripod, two ears, three feet. Tao is one, two for two, three for two, three things for three things, all things are negative and hold the sun</Desc>
 		<GLevel>God2</GLevel>
-		<EffectDesc>[size=10][color=#D06508]    Ding Cheng \nRefiner quality bonus \nProbability of refining artifacts \nLearned[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Ding Cheng  \n Refiner quality bonus  \n Probability of refining artifacts  \n Learned[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_HL_2D_1</Modifier>
 		<Fabaos>
 			<li>TDJ_WWMQD</li>
@@ -382,7 +382,7 @@
 		<Desc>All sentient beings in the world have karma for making good and bad karma. There are six places in this karma: heaven, humane, human, livestock, asura, hungry ghost, and hell.</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \nSix Paths of Reincarnation[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n Six Paths of Reincarnation[/color][/size]</EffectDesc>
 		<Skills>
 			<li>TDJ_HL_ld</li>
 		</Skills>
@@ -397,7 +397,7 @@
 		<GLevel>God2</GLevel>
 		<Element>Huo</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    One Heavy Sky \nplus Reiki Recovery Speed ​​4 \nplus Reiki Maximum 6[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    One Heavy Sky  \n plus Reiki Recovery Speed ​​4  \n plus Reiki Maximum 6[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_XT_1F</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_XT_F1_1">
@@ -409,7 +409,7 @@
 		<Desc>The sun is overcast, weak and stubborn, and the combination of yin and yang is proven. .</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Huo</Element>
-		<EffectDesc>[size=10][color=#D06508]    Double Sky \nFire Damage Damage Reduction 1 \nAdd Power 6 + n[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Double Sky  \n Fire Damage Damage Reduction 1  \n Add Power 6 + n[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_XT_1F_1</Modifier>
 	</Esoterica>
 	
@@ -423,7 +423,7 @@
 		<GLevel>God2</GLevel>
 		<Element>Shui</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]   One Heavy Sky \nplus Reiki Recovery Speed ​​4 \nplus Reiki Maximum 6[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   One Heavy Sky  \n plus Reiki Recovery Speed ​​4  \n plus Reiki Maximum 6[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_XT_2F</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_TDJ_XT_F2_1">
@@ -435,7 +435,7 @@
 		<Desc>The sun is overcast, weak and stubborn, and the combination of yin and yang is proven. .</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    Double Sky \nAdd water damage reduction 1 \nAdd spell power 6 \nIncrease level 10 gas sea limit[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Double Sky  \n Add water damage reduction 1  \n Add spell power 6  \n Increase level 10 gas sea limit[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_XT_2F_1</Modifier>
 	</Esoterica>
 	
@@ -448,7 +448,7 @@
 		<Desc>The boxing power is strong, and it is necessary to penetrate the sky and reverse the force of cutting the Immortal. This is the most terrible boxing method of ancient heaven.</Desc>
 		<GLevel>God2</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \nTiandiquan[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n Tiandiquan[/color][/size]</EffectDesc>
 		<Skills>
 			<li>TDJ_HL_TDQ</li>
 		</Skills>
@@ -463,7 +463,7 @@
 		<Desc>The boxing force is strong and supreme, and it is necessary to penetrate the sky and reverse the force of cutting Immortal. This is the most terrible boxing method of ancient heaven.</Desc>
 		<GLevel>God2</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\nPlus Shou Yuan and Ling Hui Magnification \nAdd Thirty Yuanshen Distraction \nAdd Furnace Ding \nAdd Artifact Success Rate \nAdditional Power and Addition Power[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Plus Shou Yuan and Ling Hui Magnification  \n Add Thirty Yuanshen Distraction  \n Add Furnace Ding  \n Add Artifact Success Rate  \n Additional Power and Addition Power[/color][/size]</EffectDesc>
 		<Modifier>Gong_TDJ_XT_DZ</Modifier>
 		<GodSoulCount>30</GodSoulCount>
 	</Esoterica>

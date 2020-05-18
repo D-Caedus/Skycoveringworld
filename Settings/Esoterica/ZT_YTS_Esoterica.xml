@@ -9,8 +9,8 @@
             <GLevel>Qi</GLevel>
             <Element>Tu</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508]A heavy day \n plus the upper limit of personal
-                spiritual power 4 \n plus the maximum value of 2400 \n plus personal healing
+            <EffectDesc>[size=10][color=#D06508]A heavy day  \n  plus the upper limit of personal
+                spiritual power 4  \n  plus the maximum value of 2400  \n  plus personal healing
                 4[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_LH_1A</Modifier>
         </Esoterica>
@@ -23,8 +23,8 @@
             <Desc>The way to the source lies in grasping the general trend of feng shui.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Heaven \nPlus Magic Power 4 \nPlus Spell
-                Power 4 \nPlus Base Mood[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Double Heaven  \n Plus Magic Power 4  \n Plus Spell
+                Power 4  \n Plus Base Mood[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_LH_1A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_YTS_LH_A1_2">
@@ -36,8 +36,8 @@
             <Desc>The way to the source lies in grasping the general trend of feng shui.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] Triple Heaven \nPlus Shouyuan 600 \nAdding Magical
-                Aura Upper Limit 4 \nPlus Mood[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Triple Heaven  \n Plus Shouyuan 600  \n Adding Magical
+                Aura Upper Limit 4  \n Plus Mood[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_LH_1A_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_YTS_LH_A3">
@@ -50,8 +50,8 @@
                 good health.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease shield value 1 \nIncrease shield strength
-                2 \nIncrease stealth value 20[/color][/size][/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase shield value 1  \n Increase shield strength
+                2  \n Increase stealth value 20[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_LH_3A</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_YTS_LH_A3_1">
@@ -64,8 +64,8 @@
                 good health.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508]\nImprove magical powers \nReducing spell cost
-                0.2 \nReducing celestial power -50[/color][/size][/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Improve magical powers  \n Reducing spell cost
+                0.2  \n Reducing celestial power -50[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_LH_3A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_YTS_LH_A3_2">
@@ -78,8 +78,8 @@
                 good health.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease potential value 3 \nIncrease base spiritual
-                value 30 \nIncrease furnace trip value 2500[/color][/size][/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase potential value 3  \n Increase base spiritual
+                value 30  \n Increase furnace trip value 2500[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_LH_3A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_YTS_LH_B1">
@@ -91,8 +91,8 @@
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] A heavy sky \n plus five-dimensional attributes
-                1 \n plus training speed 2 \n learned magical powers[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] A heavy sky  \n  plus five-dimensional attributes
+                1  \n  plus training speed 2  \n  learned magical powers[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_LH_1B</Modifier>
             <Magics>
                 <li>TYS_LY</li>
@@ -107,9 +107,9 @@
             <Desc>To receive the spirit of heaven and earth, the art of creation</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] A Heavy Sky \nAdd Alchemy Speed ​​\nAdd Alchemy
-                Success Rate \nLearn Magic: Feng Shui Appraisal \n Learn Magic: Prayer
-                of Heaven \n Learn Magic: Wind Moon Illusion[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] A Heavy Sky  \n Add Alchemy Speed ​​ \n Add Alchemy
+                Success Rate  \n Learn Magic: Feng Shui Appraisal  \n  Learn Magic: Prayer
+                of Heaven  \n  Learn Magic: Wind Moon Illusion[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_DG_1B</Modifier>
             <Magics>
                 <li>AbsorbGong_2</li>
@@ -131,10 +131,10 @@
             <Desc>To receive the spirit of heaven and earth, the art of creation</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Heaven \nPlus Condemnation Value \nAdd
-                Alchemy Yield \nAdd Alchemy Level \nLearn two fortune-telling magical powers
-                \nLearn magical powers: Move mountains and make sea \nLearn magical powers:
-                Refine spirit crystals \nLearn Three kinds of refining magical powers[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Double Heaven  \n Plus Condemnation Value  \n Add
+                Alchemy Yield  \n Add Alchemy Level  \n Learn two fortune-telling magical powers
+                 \n Learn magical powers: Move mountains and make sea  \n Learn magical powers:
+                Refine spirit crystals  \n Learn Three kinds of refining magical powers[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_DG_2B</Modifier>
             <Magics>
                 <li>Prophesy</li>
@@ -159,8 +159,8 @@
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nAcquired Supernatural Powers of Spiritual Containment
-                \nPlus Spell Power 3 \nPlus Spell Power 3[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Acquired Supernatural Powers of Spiritual Containment
+                 \n Plus Spell Power 3  \n Plus Spell Power 3[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_SJ_1C</Modifier>
             <Magics>
                 <li>YTS_LSY</li>
@@ -176,8 +176,8 @@
             <GLevel>Dan2</GLevel>
             <Element>Tu</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nAdd five-dimensional attributes 1 \n plus personal
-                aura 2 \n plus personal healing 2 \n learn three kinds of quenching magical
+            <EffectDesc>[size=10][color=#D06508]  \n Add five-dimensional attributes 1  \n  plus personal
+                aura 2  \n  plus personal healing 2  \n  learn three kinds of quenching magical
                 powers[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_SJ_3C</Modifier>
             <Magics>
@@ -195,8 +195,8 @@
             <GLevel>God</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nAcquire magical powers Heavenly Sage Source
-                \nAdditional magical power limit 2 \nAdditional formation level limit 15[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Acquire magical powers Heavenly Sage Source
+                 \n Additional magical power limit 2  \n Additional formation level limit 15[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_HL_1D</Modifier>
             <Magics>
                 <li>YTS_LXY</li>
@@ -212,8 +212,8 @@
                 the supernatural power of the divine body.</Desc>
             <GLevel>God</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508]\nReduces spell cost by 0.2 \nIncreases magic
-                power recovery 4 \nLearns three quenched body magic[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Reduces spell cost by 0.2  \n Increases magic
+                power recovery 4  \n Learns three quenched body magic[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_HL_dl</Modifier>
             <Magics>
                 <li>TSTL_S</li>
@@ -230,7 +230,7 @@
             <GLevel>God2</GLevel>
             <Element>Huo</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nRefiner success rate \nRefiner speed \nAdd
+            <EffectDesc>[size=10][color=#D06508]  \n Refiner success rate  \n Refiner speed  \n Add
                 artifact success rate[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_XT_1F</Modifier>
             <Magics>
@@ -313,8 +313,8 @@
                 book. .</Desc>
             <GLevel>God2</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] \nRefiner Quality Bonus \nProbability of Refining
-                Artifacts \nLearning Six Secrets of the Array: Six Immortals[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Refiner Quality Bonus  \n Probability of Refining
+                Artifacts  \n Learning Six Secrets of the Array: Six Immortals[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_XT_1F_1</Modifier>
             <Fabaos>
                 <li>Item_MiBao_HYYYH</li>
@@ -334,7 +334,7 @@
             <Desc>Yuan Tianshu records all mysteries and a formation.</Desc>
             <GLevel>God2</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearned all mysteries \nAcquired maps[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Learned all mysteries  \n Acquired maps[/color][/size]</EffectDesc>
             <Skills>
                 <li>DamageSkill_1</li>
                 <li>DamageSkill_2</li>
@@ -366,9 +366,9 @@
                 is promoted, and the ancient avenue is turned into a plaything in the hand.</Desc>
             <GLevel>God2</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease Shouyuan and Add Spirit Multiplier
-                \nAdd Thirty Dao Yuan Divine Distraction \nAdd Furnace Tripod \nAdd Artifact
-                Success Rate \nAdd Spell Power and Add Spell Power[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase Shouyuan and Add Spirit Multiplier
+                 \n Add Thirty Dao Yuan Divine Distraction  \n Add Furnace Tripod  \n Add Artifact
+                Success Rate  \n Add Spell Power and Add Spell Power[/color][/size]</EffectDesc>
             <Modifier>Gong_YTS_XT_DZ</Modifier>
             <GodSoulCount>30</GodSoulCount>
         </Esoterica>

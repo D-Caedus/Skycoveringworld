@@ -9,8 +9,8 @@
             <GLevel>Qi</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] A Heavy Heaven \nPlus Opportunity 1 \nPlus Divine
-                Awareness 1 \nPlus Potential 2 \nLearn Magic: Space Roaming[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] A Heavy Heaven  \n Plus Opportunity 1  \n Plus Divine
+                Awareness 1  \n Plus Potential 2  \n Learn Magic: Space Roaming[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_1A</Modifier>
             <Magics>
                 <li>ZT_DDZJ</li>
@@ -25,8 +25,8 @@
             <Desc>The way of space is that static is dynamic, and there is static</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Days \n plus five-dimensional attribute
-                1 \n plus experience speed 2 \n plus personal spiritual maximum 1500[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Double Days  \n  plus five-dimensional attribute
+                1  \n  plus experience speed 2  \n  plus personal spiritual maximum 1500[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_1A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_LH_A1_2">
@@ -38,8 +38,8 @@
             <Desc>The way of space lies in that static is dynamic, and there is also static.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Triple Heaven \nPlus Potential 3 \nPlus Spirit
-                Power Recovery 2 \nPlus Mood[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Triple Heaven  \n Plus Potential 3  \n Plus Spirit
+                Power Recovery 2  \n Plus Mood[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_1A_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_LH_A2_XKDSY">
@@ -52,8 +52,8 @@
                 a huge handprint in the Void.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] \nIncrease Divine Consciousness 1 \nAdd battle
-                level upper limit 10 \nAcquired Mystery: \nVoid Great Handprint (Each time
+            <EffectDesc>[size=10][color=#D06508]  \n Increase Divine Consciousness 1  \n Add battle
+                level upper limit 10  \n Acquired Mystery:  \n Void Great Handprint (Each time
                 you permanently break the target 10000 spiritual power limit)[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_2A_XKDSY</Modifier>
             <Skills>
@@ -69,8 +69,8 @@
             <Desc>Take space as food and raise spirits with everything.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease the maximum value of Reiki 2000 \nImprove
-                the recovery speed of Reiki 2 \nLearn magical powers; Spatialization (add
+            <EffectDesc>[size=10][color=#D06508] \n Increase the maximum value of Reiki 2000  \n Improve
+                the recovery speed of Reiki 2  \n Learn magical powers; Spatialization (add
                 200 life yuan 5 points per day to use)[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_3A</Modifier>
         </Esoterica>
@@ -83,8 +83,8 @@
             <Desc>Take space as food and raise spirits with everything. .</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nGreatly increase the maximum Aura 4000 \nLong
-                life 1200 \nGreatly increase the spell skill level limit 7[/color][/size][/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Greatly increase the maximum Aura 4000  \n Long
+                life 1200  \n Greatly increase the spell skill level limit 7[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_3A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_LH_A3_2">
@@ -96,8 +96,8 @@
             <Desc>Take space as food and raise spirits with everything.</Desc>
             <GLevel>Qi</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nDecrease the value of Heaven's Condemnation
-                by 40 \nIncrease Spirit Recovery 3 \nAcquisition of Supernatural Power:
+            <EffectDesc>[size=10][color=#D06508] \n Decrease the value of Heaven's Condemnation
+                by 40  \n Increase Spirit Recovery 3  \n Acquisition of Supernatural Power:
                 Rejuvenation and Reconstruction[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_3A_2</Modifier>
             <Magics>
@@ -117,8 +117,8 @@
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] A heavy day \nPlus furnace value 3500 \nPlus
-                movement speed 20 \nPlus experience reputation factor value 5[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] A heavy day  \n Plus furnace value 3500  \n Plus
+                movement speed 20  \n Plus experience reputation factor value 5[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_1B</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_LH_B1_1">
@@ -133,7 +133,7 @@
                 can take absolute initiative.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Mu</Element>
-            <EffectDesc>[size=10][color=#D06508] Double sky \nBonus Power 4 \n Bonus Power 4 \nMagic
+            <EffectDesc>[size=10][color=#D06508] Double sky  \n Bonus Power 4  \n  Bonus Power 4  \n Magic
                 Level 7[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_1B_1</Modifier>
         </Esoterica>
@@ -147,8 +147,8 @@
                 powerful and endless.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nReinforced Magic Regeneration Multiplier 2 \nAdditional
-                Repelled Knockback Distance 4 \nLearned Mystery: \nIntercept[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Reinforced Magic Regeneration Multiplier 2  \n Additional
+                Repelled Knockback Distance 4  \n Learned Mystery:  \n Intercept[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_LH_3B_SDSS</Modifier>
             <Skills>
                 <li>ZT_JTZ</li>
@@ -163,8 +163,8 @@
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] A heavy day \nAdd personal spiritual value 2
-                \nNumber of magic weapons 1 \nAdd magic weapon power 4[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] A heavy day  \n Add personal spiritual value 2
+                 \n Number of magic weapons 1  \n Add magic weapon power 4[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_SJ_1C</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_SJ_C1_1">
@@ -176,8 +176,8 @@
             <Desc>Reaching the extreme void, with static braking, without attack.</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Double sky \nThe number of magic weapons is 1
-                \n plus the tenth level of the weapon level \n reduces the value of the
+            <EffectDesc>[size=10][color=#D06508] Double sky  \n The number of magic weapons is 1
+                 \n  plus the tenth level of the weapon level  \n  reduces the value of the
                 condemnation by 20[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_SJ_1C_1</Modifier>
         </Esoterica>
@@ -190,8 +190,8 @@
             <Desc>Reaching the extreme void, with static braking, without attack.</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Triple sky \nIncrease shield strength 2 \nAdd
-                spell power 4 \nAdd spell level 10[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Triple sky  \n Increase shield strength 2  \n Add
+                spell power 4  \n Add spell level 10[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_SJ_1C_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_SJ_C2_YQ">
@@ -204,7 +204,7 @@
                 and dust. . . .</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nAcquired Supernatural Power: \nQi Huaxu[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Acquired Supernatural Power:  \n Qi Huaxu[/color][/size]</EffectDesc>
             <Magics>
                 <li>ZT_QXHX</li>
                 <li>BuildBody</li>
@@ -220,7 +220,7 @@
                 and dust. . . .</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearned Mystery: \nQi has[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Learned Mystery:  \n Qi has[/color][/size]</EffectDesc>
             <Skills>
                 <li>ZT_QXHY</li>
             </Skills>
@@ -235,7 +235,7 @@
                 and dust. . . .</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]nLearned Mystery: \nEmpty[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]nLearned Mystery:  \n Empty[/color][/size]</EffectDesc>
             <Skills>
                 <li>ZT_KKRY</li>
             </Skills>
@@ -250,8 +250,8 @@
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Real Condensation \nAdd Magic Power 4 \nAdd Personal
-                Aura 3 \nAdd Personal Healing 2[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Real Condensation  \n Add Magic Power 4  \n Add Personal
+                Aura 3  \n Add Personal Healing 2[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_SJ_3C</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_SJ_C3_1">
@@ -264,8 +264,8 @@
                 body of the reincarnation sea from the Yuanshen, melting and vanity</Desc>
             <GLevel>Dan2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] False Break \nPlus Spell Power 4 \nPlus Shield
-                Strength 2 \nMaximum Battle Level 10 \nLearned Mysteries: False Break Two
+            <EffectDesc>[size=10][color=#D06508] False Break  \n Plus Spell Power 4  \n Plus Shield
+                Strength 2  \n Maximum Battle Level 10  \n Learned Mysteries: False Break Two
                 Realms[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_SJ_3C_1</Modifier>
             <Skills>
@@ -282,8 +282,8 @@
             <GLevel>God</GLevel>
             <Element>Jin</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nAdd Aura Recovery Speed ​​2 \nAdd Aura Max
-                3 \nMaximum Battle Level 10[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Add Aura Recovery Speed ​​2  \n Add Aura Max
+                3  \n Maximum Battle Level 10[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_HL_1D</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_HL_D1_1">
@@ -296,8 +296,8 @@
                 is me.</Desc>
             <GLevel>God</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] \nArray load capacity 30 \nAdd spell power 4
-                \nAdd spell power 4[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Array load capacity 30  \n Add spell power 4
+                 \n Add spell power 4[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_HL_1D_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_HL_D1_2">
@@ -310,8 +310,8 @@
                 is me.</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] \nMax spell level limit 10 \nMaximum magic power
-                4 \nMaximum spell level 10[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Max spell level limit 10  \n Maximum magic power
+                4  \n Maximum spell level 10[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_HL_1D_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_HL_D2">
@@ -323,8 +323,8 @@
                 breath flowing out.</Desc>
             <GLevel>God</GLevel>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Embryo \nSmelter success rate \nSmelter speed
-                \nAdd artifact success rate[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Embryo  \n Smelter success rate  \n Smelter speed
+                 \n Add artifact success rate[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_HL_2D</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_HL_D2_1">
@@ -336,8 +336,8 @@
             <Desc>A quaint bronze mirror, with seemingly endless power, traces of chaotic
                 breath flowing out.</Desc>
             <GLevel>God2</GLevel>
-            <EffectDesc>[size=10][color=#D06508] Mirror Cheng \nRefining Tool Quality Bonus \nProbability
-                of Refining Artifact \nAcquisition Extreme Emperor: Void Mirror[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Mirror Cheng  \n Refining Tool Quality Bonus  \n Probability
+                of Refining Artifact  \n Acquisition Extreme Emperor: Void Mirror[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_HL_2D_1</Modifier>
             <Fabaos>
                 <li>TDJ_XKJ</li>
@@ -356,8 +356,8 @@
             <GLevel>God2</GLevel>
             <Element>None</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] A Heavy Sky \nPlus Aura Recovery Speed ​​3 \nPlus
-                Shield Level Cap 5 \nPlus Number of Magic Power[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] A Heavy Sky  \n Plus Aura Recovery Speed ​​3  \n Plus
+                Shield Level Cap 5  \n Plus Number of Magic Power[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_XT_1F</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_XKJ_XT_F1_1">
@@ -370,8 +370,8 @@
                 .</Desc>
             <GLevel>God2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nAdditional damage reduction of 0.5
-                \nReduction of spell cost 0.25 \nAdditional magic recovery 2 \nLearned
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Additional damage reduction of 0.5
+                 \n Reduction of spell cost 0.25  \n Additional magic recovery 2  \n Learned
                 Mystery: Void (Each hit reduces enemy hit by 0.15)[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_XT_1F_1</Modifier>
         </Esoterica>
@@ -387,7 +387,7 @@
                 is eternal.</Desc>
             <GLevel>God2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearned Mysteries: \nSupreme Taboo Mysteries
+            <EffectDesc>[size=10][color=#D06508] \n Learned Mysteries:  \n Supreme Taboo Mysteries
                 (It consumes 1800 years of Shou Yuan, destroys the first magic weapon,
                 and causes an additional 10 times the power of the magic weapon to the
                 target. It is only a mystery of the Void Scripture.)[/color][/size]</EffectDesc>
@@ -405,9 +405,9 @@
                 fairy is free in the world.</Desc>
             <GLevel>God2</GLevel>
             <Element>None</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease Shouyuan and Add Spirit Multiplier
-                \nAdd Thirty Dao Yuan Divine Distraction \nAdd Furnace Tripod \nAdd Artifact
-                Success Rate \nAdd Spell Power and Add Spell Power[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase Shouyuan and Add Spirit Multiplier
+                 \n Add Thirty Dao Yuan Divine Distraction  \n Add Furnace Tripod  \n Add Artifact
+                Success Rate  \n Add Spell Power and Add Spell Power[/color][/size]</EffectDesc>
             <Modifier>Gong_XKJ_XT_DZ</Modifier>
             <GodSoulCount>30</GodSoulCount>
         </Esoterica>

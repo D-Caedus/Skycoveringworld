@@ -10,8 +10,8 @@
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Yitiantian \nIncrease the load of the matrix
-                method 25 \nAdd the root bone 2 \nLearn the magic: Refining the void (each
+            <EffectDesc>[size=10][color=#D06508] Yitiantian  \n Increase the load of the matrix
+                method 25  \n Add the root bone 2  \n Learn the magic: Refining the void (each
                 use can increase 100 life)[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_LH_1A</Modifier>
             <Magics>
@@ -27,8 +27,8 @@
                 one can fight.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nplus five-dimensional attributes1
-                \nplus personal Reiki 2000 \nplus personal Huiling 1.5[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n plus five-dimensional attributes1
+                 \n plus personal Reiki 2000  \n plus personal Huiling 1.5[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_LH_1A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_LH_A1_2">
@@ -40,8 +40,8 @@
             <Difficulty>10</Difficulty>
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] Triple Sky \nPlus Potential3 \nPlus Basic Spiritual
-                Power30 \nPlus State of Mind[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Triple Sky  \n Plus Potential3  \n Plus Basic Spiritual
+                Power30  \n Plus State of Mind[/color][/size]</EffectDesc>
             <Modifier>Gong_TDJ_LH_1A_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_DRXW">
@@ -53,8 +53,8 @@
                 order to refine their own extreme emperor soldiers.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nAdd spell damage 5 \nRaise the upper limit of
-                the spell level by 10 \nAcquisition: \nFalling the fierce power (each use
+            <EffectDesc>[size=10][color=#D06508] \n Add spell damage 5  \n Raise the upper limit of
+                the spell level by 10  \n Acquisition:  \n Falling the fierce power (each use
                 deducts the opponent's 15000 spiritual power and deserves sacred damage)[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_DRXW</Modifier>
             <Skills>
@@ -69,8 +69,8 @@
             <Desc>Before becoming Emperor, kill the world with the furnace of Vulcan</Desc>
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease the maximum skill level of the refiner
-                \nSpirit Recovery Speed ​​4[/color][/size][/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase the maximum skill level of the refiner
+                 \n Spirit Recovery Speed ​​4[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_LH_3A</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_LH_A3_1">
@@ -81,8 +81,8 @@
             <Desc>Before becoming Emperor, kill the world with the furnace of Vulcan</Desc>
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nGreatly increase the maximum Aura 3000 \n Reduce
-                spell cooldown 0.5 \n Reduce spell chant 0.5[/color][/size][/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Greatly increase the maximum Aura 3000  \n  Reduce
+                spell cooldown 0.5  \n  Reduce spell chant 0.5[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_LH_3A_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_LH_A3_2">
@@ -93,8 +93,8 @@
             <Desc>Before becoming Emperor, kill the world with the furnace of Vulcan</Desc>
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nSignificantly reduce spell consumption by 0.5
-                \nLearn the secret treasure away from Vulcan furnace \nIncrease spell power3[/color][/size][/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Significantly reduce spell consumption by 0.5
+                 \n Learn the secret treasure away from Vulcan furnace  \n Increase spell power3[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_LH_3A_2</Modifier>
             <Fabaos>
                 <li>HYJ_LHSL</li>
@@ -111,8 +111,8 @@
             <GLevel>Dan1</GLevel>
             <Element>Huo</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Yizhongtian \nPlus furnace value \nPlus opportunity
-                \nLearn the magic of Baicao (each use increases 300 yuan and increases
+            <EffectDesc>[size=10][color=#D06508] Yizhongtian  \n Plus furnace value  \n Plus opportunity
+                 \n Learn the magic of Baicao (each use increases 300 yuan and increases
                 reputation)[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_LH_1B</Modifier>
             <Magics>
@@ -129,8 +129,8 @@
                 Emperors of Huaxia</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nMaximum skill level 5 \nMaximum
-                spiritual power value 5000 \nLearn Shennong ’s secret method (regenerate
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Maximum skill level 5  \n Maximum
+                spiritual power value 5000  \n Learn Shennong ’s secret method (regenerate
                 a target by amputating the limb and recast all the parts he has lost. Decrease
                 ten points of condemnation with each use Value, consuming fifty years of
                 life)[/color][/size]</EffectDesc>
@@ -147,9 +147,9 @@
             <Desc>Shennong tasted Baicao and encountered seventy poisons every day.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] Yizhongtian \nAdd 3 times the upper limit of
-                personal aura \nLearn the mystery Baicao Pills \nLearn the magical power:
-                Vine consciousness \nLearn the magical power: Prayer for Heaven \nLearn
+            <EffectDesc>[size=10][color=#D06508] Yizhongtian  \n Add 3 times the upper limit of
+                personal aura  \n Learn the mystery Baicao Pills  \n Learn the magical power:
+                Vine consciousness  \n Learn the magical power: Prayer for Heaven  \n Learn
                 the magical power: Tian Linjue[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_DG_1B</Modifier>
             <Magics>
@@ -174,8 +174,8 @@
             <Desc>Shennong tasted Baicao and encountered seventy poisons every day.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nAdditional Power4 \nReduce the Singing
-                Time of Spells \nAcquired Magical Powers: Shovel Prosperity \nAcquired
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Additional Power4  \n Reduce the Singing
+                Time of Spells  \n Acquired Magical Powers: Shovel Prosperity  \n Acquired
                 Magical Powers: Refined Spirit Crystals[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_DG_2B</Modifier>
             <Magics>
@@ -197,8 +197,8 @@
                 attributes for one day.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease Spirit Recovery Speed ​​4 \nMaximum
-                Aura Level 8 \nLearn Pill Recipe: Daomong Shenmaru[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase Spirit Recovery Speed ​​4  \n Maximum
+                Aura Level 8  \n Learn Pill Recipe: Daomong Shenmaru[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_LH_3B_SDSS</Modifier>
             <Dans>
                 <li>Dan_XZSZ</li>
@@ -217,8 +217,8 @@
             <GLevel>Dan2</GLevel>
             <Element>Huo</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Yitiantian \nPerception plus 1 consciousness
-                plus 1 \nMaximum skill level 10 levels \nSpell power 5[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Yitiantian  \n Perception plus 1 consciousness
+                plus 1  \n Maximum skill level 10 levels  \n Spell power 5[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_SJ_1C</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_SJ_C1_1">
@@ -229,7 +229,7 @@
             <Desc>Depressing the Old Road is different</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nReduces Spirit Power by 0.25 \nReduces
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Reduces Spirit Power by 0.25  \n Reduces
                 Spell Mana by 0.25[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_SJ_1C_1</Modifier>
         </Esoterica>
@@ -241,8 +241,8 @@
             <Desc>If you ask where is the avenue, Hengyu furnace turns into the sky</Desc>
             <GLevel>Qi</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] Triple Sky \nIncrease Potential 3 \nIncrease
-                Spell Power by 10 \nReduce Spell Cool by 0.25[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Triple Sky  \n Increase Potential 3  \n Increase
+                Spell Power by 10  \n Reduce Spell Cool by 0.25[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_SJ_1C_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_SJ_C2_YQ">
@@ -253,7 +253,7 @@
             <Desc>The fire from heaven came to the fire of the Tao, and the world was destroyed</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nAcquired Mystery: \nYanyanhuo (reduce the opponent's
+            <EffectDesc>[size=10][color=#D06508] \n Acquired Mystery:  \n Yanyanhuo (reduce the opponent's
                 strength by 100s and 800s)[/color][/size]</EffectDesc>
             <Skills>
                 <li>HYJ_YYHY</li>
@@ -267,7 +267,7 @@
             <Desc>The fire from heaven came to the fire of the Tao, and the world was destroyed</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nAcquisition of Mystery: \nFlame Yan Yan (Damage
+            <EffectDesc>[size=10][color=#D06508] \n Acquisition of Mystery:  \n Flame Yan Yan (Damage
                 will increase each time.)[/color][/size]</EffectDesc>
             <Skills>
                 <li>HYJ_YYYY</li>
@@ -284,8 +284,8 @@
             <GLevel>Dan2</GLevel>
             <Element>Huo</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nIncrease the maximum skill skill level by 10
-                levels \nReduce spell consumption by 50% \nAdd and reduce spell singing
+            <EffectDesc>[size=10][color=#D06508]  \n Increase the maximum skill skill level by 10
+                levels  \n Reduce spell consumption by 50%  \n Add and reduce spell singing
                 time by 50%[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_SJ_3C</Modifier>
         </Esoterica>
@@ -299,8 +299,8 @@
                 is scarce.</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] \nIncrease spell skill level by 10 \nReduce spell
-                cooling by 50% \nAdd and reduce spell singing time by 50%[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Increase spell skill level by 10  \n Reduce spell
+                cooling by 50%  \n Add and reduce spell singing time by 50%[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_SJ_3C_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_HL_D1">
@@ -312,8 +312,8 @@
             <GLevel>God</GLevel>
             <Element>Huo</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \n10 max spell addition level \nPlus personal
-                aura cap 4 \nSecrets: \nYan Mo (Permanent melting of enemy shield value
+            <EffectDesc>[size=10][color=#D06508]  \n 10 max spell addition level  \n Plus personal
+                aura cap 4  \n Secrets:  \n Yan Mo (Permanent melting of enemy shield value
                 5.)[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_HL_1D</Modifier>
             <Skills>
@@ -329,7 +329,7 @@
                 Zhu Xiang.</Desc>
             <GLevel>God</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] \nDecrease sacrifice value 30 \nAdditional power
+            <EffectDesc>[size=10][color=#D06508]  \n Decrease sacrifice value 30  \n Additional power
                 10[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_HL_1D_1</Modifier>
         </Esoterica>
@@ -344,8 +344,8 @@
                 God's desert, and eventually killing him.</Desc>
             <GLevel>God</GLevel>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Organ embryo \nIncrease magic power \nPlus refiner
-                speed \nPlus artifact success rate[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Organ embryo  \n Increase magic power  \n Plus refiner
+                speed  \n Plus artifact success rate[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_HL_2D</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_HYJ_HL_D2_1">
@@ -358,8 +358,8 @@
                 battled with the pursuit of the Supreme Strongman for many days, playing
                 God's desert, and eventually killing him.</Desc>
             <GLevel>God2</GLevel>
-            <EffectDesc>[size=10][color=#D06508] Furnace opening \nRefiner quality bonus \nProbability
-                of refining artifacts \nAcquisition of the Emperor: Hengyu God furnace[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Furnace opening  \n Refiner quality bonus  \n Probability
+                of refining artifacts  \n Acquisition of the Emperor: Hengyu God furnace[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_HL_2D_1</Modifier>
             <Fabaos>
                 <li>HYJ_HYSL</li>
@@ -374,7 +374,7 @@
                 of the Supreme Power.</Desc>
             <GLevel>God</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nLearn Mystery: \nWanjie Burning Immortal[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Learn Mystery:  \n Wanjie Burning Immortal[/color][/size]</EffectDesc>
             <Skills>
                 <li>HYJ_WJFX</li>
             </Skills>
@@ -389,8 +389,8 @@
             <GLevel>God2</GLevel>
             <Element>Huo</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] One Heavy Sky \nPlus Aura Recovery Speed ​​4
-                \nMaximum Ability Level 10 \nLearn Mystery[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] One Heavy Sky  \n Plus Aura Recovery Speed ​​4
+                 \n Maximum Ability Level 10  \n Learn Mystery[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_XT_1F</Modifier>
             <Skills>
                 <li>HYJ_JYYR</li>
@@ -405,7 +405,7 @@
                 earth, breaking the sun into nine parts.</Desc>
             <GLevel>God2</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nAdd wood damage reduction 1 \nAdd
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Add wood damage reduction 1  \n Add
                 shield 4[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_XT_1F_1</Modifier>
         </Esoterica>
@@ -418,9 +418,9 @@
                 a fire.</Desc>
             <GLevel>God2</GLevel>
             <Element>Huo</Element>
-            <EffectDesc>[size=10][color=#D06508]\nJia Shou Yuan and Ling Hui Multiplier \nPlus
-                Thirty Primal Distractions \nPlus Furnace Ding \nPlus Artifact Success
-                Rate \nAdditional Power and Addition Power[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Jia Shou Yuan and Ling Hui Multiplier  \n Plus
+                Thirty Primal Distractions  \n Plus Furnace Ding  \n Plus Artifact Success
+                Rate  \n Additional Power and Addition Power[/color][/size]</EffectDesc>
             <Modifier>Gong_HYJ_XT_DZ</Modifier>
             <GodSoulCount>30</GodSoulCount>
         </Esoterica>

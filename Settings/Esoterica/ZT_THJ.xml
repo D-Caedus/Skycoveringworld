@@ -11,7 +11,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>Jin</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    Yitiantian \nPlus root bone 2 \nPotential value 2 \nAdded savvy value comprehension coefficient 0.5 \n Learned the magic power: Longhang Avenue (16 times the speed of practice)[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Yitiantian  \n Plus root bone 2  \n Potential value 2  \n Added savvy value comprehension coefficient 0.5  \n  Learned the magic power: Longhang Avenue (16 times the speed of practice)[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_1A</Modifier>
 		<Magics>
 			<li>LXDD</li>
@@ -26,7 +26,7 @@
 		<Desc>The immortal dynasty founded by the emperor, the imperial dynasty, is the most powerful.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]   Double Sky \nAdd the number of magic treasures 1 \nAdd personal aura 1800 \nAdd personal return 1.5[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Double Sky  \n Add the number of magic treasures 1  \n Add personal aura 1800  \n Add personal return 1.5[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_1A_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_LH_A1_2">
@@ -38,7 +38,7 @@
 		<Desc>The immortal dynasty founded by the emperor, the imperial dynasty, is the most powerful.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]    Triple Sky \nPlus Battle Level 10 Level \nPlus State of Mind[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Triple Sky  \n Plus Battle Level 10 Level  \n Plus State of Mind[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_1A_2</Modifier>
 	</Esoterica>
 	
@@ -54,7 +54,7 @@
 		<Desc>The dragon's energy will rise, and the strongest will condense the image of the dragon and the body surface.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]\nAdding magic weapon repellence resistance 5 \nImproving magic weapon repellence ability 5 \nAcquisition: \nXuanlong Zhengdao[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Adding magic weapon repellence resistance 5  \n Improving magic weapon repellence ability 5  \n Acquisition:  \n Xuanlong Zhengdao[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_2A_XKDSY</Modifier>
 		<Skills>
 			<li>XLZD</li>
@@ -72,7 +72,7 @@
 		<Desc>The unique technique of connotation of magic in the Emperor's Scriptures uses dragon gas to raise vessels.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]\nIncrease magic level 10 \nImprove refiner quality \nImprove shield value 3[/color][/size][/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Increase magic level 10  \n Improve refiner quality  \n Improve shield value 3[/color][/size][/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_3A</Modifier>
 	</Esoterica>
 	
@@ -85,7 +85,7 @@
 		<Desc>The unique connotation technique in the Emperor's Scriptures uses dragon gas to raise vessels.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]\nGreatly increase the maximum Reiki 3000 \nIncrease Magic Aura capacity 4 \nImprove Magic Aura recovery speed 4[/color][/size][/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Greatly increase the maximum Reiki 3000  \n Increase Magic Aura capacity 4  \n Improve Magic Aura recovery speed 4[/color][/size][/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_3A_1</Modifier>
 	</Esoterica>
 	
@@ -100,7 +100,7 @@
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    一重天    \n加炉鼎值2500\n加法宝威力5\n加法宝回灵倍率4[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    一重天     \n 加炉鼎值2500 \n 加法宝威力5 \n 加法宝回灵倍率4[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_1B</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_LH_B1_1">
@@ -112,7 +112,7 @@
 		<Desc>以龙气入体，虽然凶险，但却能够大幅度提高神藏之力。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]    二重天    \n加法宝威力5\n加法宝灵力最大值2\n加御器技能等级上限七级[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    二重天     \n 加法宝威力5 \n 加法宝灵力最大值2 \n 加御器技能等级上限七级[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_1B_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_LH_B1_2">
@@ -124,7 +124,7 @@
 		<Desc>以龙气入体，虽然凶险，但却能够大幅度提高神藏之力。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]    三重天    \n加护盾值3\n提高炉鼎值3000\n加御器等级上限十三级[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    三重天     \n 加护盾值3 \n 提高炉鼎值3000 \n 加御器等级上限十三级[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_1B_2</Modifier>
 	</Esoterica>
 	
@@ -139,7 +139,7 @@
 		<Desc>Na's unique creation。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Tu</Element>
-		<EffectDesc>[size=10][color=#D06508]    一重天    \n降低天谴值25\n提高历练速度\n习得两个算命神通\n习得神通：移山造海\n习得神通：炼制灵晶\n习得三种淬炼神通[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    一重天     \n 降低天谴值25 \n 提高历练速度 \n 习得两个算命神通 \n 习得神通：移山造海 \n 习得神通：炼制灵晶 \n 习得三种淬炼神通[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_DG_1B</Modifier>
 		<Magics>
 			<li>Prophesy</li>
@@ -166,7 +166,7 @@
 		<Desc>以龙气化盾，抵御一切法。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]\n加法宝回灵倍率2\n加法宝击退距离4\n加法宝击退抗性4 \n习得  秘术：\n真龙罡气[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 加法宝回灵倍率2 \n 加法宝击退距离4 \n 加法宝击退抗性4  \n 习得  秘术： \n 真龙罡气[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_LH_3B_SDSS</Modifier>
 		<Skills>
 			<li>ZLGQ</li>
@@ -184,7 +184,7 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Huo</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    一重天    \n法宝数量1\n加法宝灵力上限4[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    一重天     \n 法宝数量1 \n 加法宝灵力上限4[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_SJ_1C</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_SJ_C1_1">
@@ -196,7 +196,7 @@
 		<Desc>Depressing the Old Road is different</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Huo</Element>
-		<EffectDesc>[size=10][color=#D06508]    二重天    \n灵力恢复速度2\n加法宝等级五级\n加五维属性[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    二重天     \n 灵力恢复速度2 \n 加法宝等级五级 \n 加五维属性[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_SJ_1C_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_SJ_C1_2">
@@ -208,7 +208,7 @@
 		<Desc>若问大道何处是，恒宇炉转破苍穹</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Huo</Element>
-		<EffectDesc>[size=10][color=#D06508]    三重天    \n加法宝数量1\n加法宝等级10上限[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    三重天     \n 加法宝数量1 \n 加法宝等级10上限[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_SJ_1C_2</Modifier>
 	</Esoterica>
 	
@@ -222,7 +222,7 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Jin</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]        \n习得神通 气蕴龙体\n加个人灵气4\n加个人回灵2[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]         \n 习得神通 气蕴龙体 \n 加个人灵气4 \n 加个人回灵2[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_SJ_3C</Modifier>
 		<Magics>
 			<li>QYLT</li>
@@ -238,7 +238,7 @@
 		<Desc>以斗战圣法演化太极，化阴炉养己身</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]       \n加法宝威力6\n减低法宝攻击间隔0.25[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]        \n 加法宝威力6 \n 减低法宝攻击间隔0.25[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_SJ_3C_1</Modifier>
 	</Esoterica>
 	
@@ -251,7 +251,7 @@
 		<GLevel>God</GLevel>
 		<Element>Jin</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    纳灵蕴龙    \n加法宝威力5\n加法宝灵力上限2\n加御器技能等级上限[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    纳灵蕴龙     \n 加法宝威力5 \n 加法宝灵力上限2 \n 加御器技能等级上限[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_HL_1D</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_HL_D1_1">
@@ -263,7 +263,7 @@
 		<Desc>太皇经为大夏皇朝老祖，太皇所作，是无上攻伐之术。</Desc>
 		<GLevel>God</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]    灵气拟龙   \n加法宝灵力恢复倍率1\n加法宝灵力恢复4\n加法宝数量1[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    灵气拟龙    \n 加法宝灵力恢复倍率1 \n 加法宝灵力恢复4 \n 加法宝数量1[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_HL_1D_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_HL_D1_2">
@@ -275,7 +275,7 @@
 		<Desc>太皇经为大夏皇朝老祖，太皇所作，是无上攻伐之术。</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]    皇道龙气   \n加法宝威力6\n加法宝击退抗性5\n习得  秘术：\n皇道龙气[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    皇道龙气    \n 加法宝威力6 \n 加法宝击退抗性5 \n 习得  秘术： \n 皇道龙气[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_HL_1D_2</Modifier>
 		<Skills>
 			<li>TDJ_HL_HDLQ</li>
@@ -290,7 +290,7 @@
 		<Desc>太皇剑出，举世震惊，其攻伐之力无敌于世。</Desc>
 		<GLevel>God</GLevel>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    剑胚    \n加炼器成功率\n加炼器速度\n加神器成功率[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    剑胚     \n 加炼器成功率 \n 加炼器速度 \n 加神器成功率[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_HL_2D</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_HL_D2_1">
@@ -301,7 +301,7 @@
 		<Difficulty>15</Difficulty>
 		<Desc>太皇剑出，举世震惊，其攻伐之力无敌于世。</Desc>
 		<GLevel>God2</GLevel>
-		<EffectDesc>[size=10][color=#D06508]    剑成    \n炼器品质加成\n炼成神器概率\n习得 极道帝兵：太皇剑[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    剑成     \n 炼器品质加成 \n 炼成神器概率 \n 习得 极道帝兵：太皇剑[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_HL_2D_1</Modifier>
 		<Fabaos>
 			<li>THJ_THJ</li>
@@ -318,7 +318,7 @@
 		<Desc>以无上之威，御龙气附与器中，攻伐天下敌。</Desc>
 		<GLevel>God</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]\n习得  秘术：\n龙气爆裂[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 习得  秘术： \n 龙气爆裂[/color][/size]</EffectDesc>
 		<Skills>
 			<li>LQSS</li>
 		</Skills>
@@ -333,7 +333,7 @@
 		<GLevel>God2</GLevel>
 		<Element>Jin</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    一重天    \n加法宝回灵倍率3\n加法宝等级上限10[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    一重天     \n 加法宝回灵倍率3 \n 加法宝等级上限10[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_XT_1F</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_THJ_XT_F1_1">
@@ -345,7 +345,7 @@
 		<Desc>太皇俯视天下，万年吹毛求疵而作出的最后修改。</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]    二重天    \n加法宝技能上限10\n加法宝威力6[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    二重天     \n 加法宝技能上限10 \n 加法宝威力6[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_XT_1F_1</Modifier>
 	</Esoterica>
 	
@@ -353,13 +353,13 @@
 	<Esoterica Name="Gong_THJ_TDQ">
 		<DisplayName>逆行伐仙</DisplayName>
 		<Hide>2</Hide>
-		<Icon>Spr\Object\JN\ZT_THJ\NXFX.png</Icon>
+		<Icon>Spr\Object\JN\ZT_THJ \n XFX.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>45</Difficulty>
 		<Desc>无与伦比的攻击力让整片天帝都为之战栗</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508]\n习得  秘术：\n逆行伐仙[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 习得  秘术： \n 逆行伐仙[/color][/size]</EffectDesc>
 		<Skills>
 			<li>NXFX</li>
 		</Skills>
@@ -374,7 +374,7 @@
 		<Desc>太皇，是一个传奇，行走在人间，堪比神灵。有人说他可逆天伐仙，是一个了不得的盖世人物。</Desc>
 		<GLevel>God2</GLevel>
 		<Element>None</Element>
-		<EffectDesc>[size=10][color=#D06508]\n加寿元和加回灵倍率\n加三十道元神分神\n加炉鼎\n加神器成功率\n加术法威力和加法宝威力[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 加寿元和加回灵倍率 \n 加三十道元神分神 \n 加炉鼎 \n 加神器成功率 \n 加术法威力和加法宝威力[/color][/size]</EffectDesc>
 		<Modifier>Gong_THJ_XT_DZ</Modifier>
 		<GodSoulCount>30</GodSoulCount>
 	</Esoterica>

@@ -4,14 +4,14 @@
 	
 	<Esoterica Name="Gong_NPJ_1">
 		<DisplayName>Anger</DisplayName>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_Z.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_Z.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>15</Difficulty>
 		<Desc>This volume records how to improve the speed of the human body and the elixir of spiritual recovery.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Mu</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]\n learned all elixir of Qi Haijuan.[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n  learned all elixir of Qi Haijuan.[/color][/size]</EffectDesc>
 		<Dans>
 			<li>NPJ_QHD1</li>
 			<li>NPJ_QHD2</li>
@@ -34,14 +34,14 @@
 	
 	<Esoterica Name="Gong_NPJ_6">
 		<DisplayName>Greed</DisplayName>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_0.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_0.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>0</Difficulty>
 		<Desc></Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Mu</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    One heavy sky \nAdd five points each \nIncrease psionic power 1000 \nIncrease alchemy level 10 cap 10[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    One heavy sky  \n Add five points each  \n Increase psionic power 1000  \n Increase alchemy level 10 cap 10[/color][/size]</EffectDesc>
 		<Modifier>Gong_NPJ_6_A</Modifier>
 		<Dans>
 			<li>NP_XWD</li>
@@ -50,40 +50,40 @@
 	<Esoterica Name="Gong_NPJ_6_1">
 		<DisplayName>Insane</DisplayName>
 		<Hide>2</Hide>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_0.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_0.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>15</Difficulty>
 		<Desc>Nirvana is an exact method that cannot be decomposed. It is completely born of the world, and has only one nature, which is to completely transcend the doom and immortality of the real world.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]   Double Sky \nAdd five points each one \nAdd five elements damage reduction value 0.2 \nIncrease alchemy bonus 5[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   Double Sky  \n Add five points each one  \n Add five elements damage reduction value 0.2  \n Increase alchemy bonus 5[/color][/size]</EffectDesc>
 		<Modifier>Gong_NPJ_6_B</Modifier>
 		
 	</Esoterica>
 	<Esoterica Name="Gong_NPJ_6_2">
 		<DisplayName>Idiot</DisplayName>
 		<Hide>2</Hide>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_0.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_0.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>15</Difficulty>
 		<Desc>Nirvana is an exact method that cannot be decomposed. It is completely born of the world, and has only one nature, which is to completely transcend the doom and immortality of the real world.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]    Triple Sky \nAdd five points to each point \nIncrease Shield Level 10 Cap 10 \nIncrease Alchemy Speed ​​10[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Triple Sky  \n Add five points to each point  \n Increase Shield Level 10 Cap 10  \n Increase Alchemy Speed ​​10[/color][/size]</EffectDesc>
 		<Modifier>Gong_NPJ_6_C</Modifier>
 		
 	</Esoterica>
 	
 	<Esoterica Name="Gong_NPJ_11">
 		<DisplayName>Tsutenkaku</DisplayName>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_Y.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_Y.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>15</Difficulty>
 		<Desc>The revised volume records how to refine the elixir to improve practice and speed of practice.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Mu</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508] \nAcquired all the elixir of Tongtian volume.[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]  \n Acquired all the elixir of Tongtian volume.[/color][/size]</EffectDesc>
 		<Dans>
 			<li>NP_JXW</li>
 			<li>NP_MXW</li>
@@ -109,14 +109,14 @@
 	
 	<Esoterica Name="Gong_NPJ_2">
 		<DisplayName>Payroll</DisplayName>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_JE.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_JE.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>15</Difficulty>
 		<Desc>Tiandao pays diligence, and can make up for it. There is no garbage tool person, only a tool person who has no medicine to eat.</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    Yizhongtian \nAcquisition rewards all elixir.[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Yizhongtian  \n Acquisition rewards all elixir.[/color][/size]</EffectDesc>
 		
 		<Dans>
 			
@@ -133,13 +133,13 @@
 	<Esoterica Name="Gong_NPJ_12">
 		<DisplayName>World roll</DisplayName>
 		<Hide>2</Hide>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_JE.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_JE.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>10</Difficulty>
 		<Desc>How to mix without elixir when walking around the world?</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]    Double Sky \nAdd five points to each point \nLearn all elixir in the world. \nPlus five elements damage reduction[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Double Sky  \n Add five points to each point  \n Learn all elixir in the world.  \n Plus five elements damage reduction[/color][/size]</EffectDesc>
 		
 		<Dans>
 			<li>NP_LLD</li>
@@ -164,7 +164,7 @@
 		<Desc>Dixian</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]\nIncreases Spirit Recovery speed by 3 times \nAlchemy Limit +10 \n[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Increases Spirit Recovery speed by 3 times  \n Alchemy Limit +10  \n [/color][/size]</EffectDesc>
 		<Modifier>Gong_NPJ_8_A</Modifier>
 		<Dans>
 			<li>NP_XWD1</li>
@@ -189,7 +189,7 @@
 		<Desc>Tianxian Chengdan, induction red dust!</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]\nIncrease the speed of spiritual power by 3 times \nAlchemy upper limit plus 10 \nAlchemy yield increased by 3[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Increase the speed of spiritual power by 3 times  \n Alchemy upper limit plus 10  \n Alchemy yield increased by 3[/color][/size]</EffectDesc>
 		<Modifier>Gong_NPJ_8_B</Modifier>
 		<Dans>
 			<li>NP_TDJ</li>
@@ -218,7 +218,7 @@
 		<GLevel>God</GLevel>
 		<Element>Tu</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    \n Learned Dahua Volume All Pills[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]     \n  Learned Dahua Volume All Pills[/color][/size]</EffectDesc>
 		<Dans>
 			<li>NP_DHD</li>
 			<li>NP_DHDJ</li>
@@ -244,7 +244,7 @@
 		<Desc>No words and no trace, white paper Immortal constant.</Desc>
 		<GLevel>God</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]\n Acquired Heaven Book Volume All Pills [/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n  Acquired Heaven Book Volume All Pills [/color][/size]</EffectDesc>
 		<Dans>
 			<li>NP_TSD</li>
 			<li>NP_TSD1</li>
@@ -260,13 +260,13 @@
 	<Esoterica Name="Gong_NPJ_5">
 		<DisplayName>Nirvana</DisplayName>
 		<Hide>2</Hide>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_E.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_E.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>15</Difficulty>
 		<Desc>Nirvana is reborn, and fire feathers burn the sky.</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Jin</Element>
-		<EffectDesc>[size=10][color=#D06508] \n learn Nirvana roll all Pills.[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]  \n  learn Nirvana roll all Pills.[/color][/size]</EffectDesc>
 		<Dans>
 			<li>NP_NPD</li>
 		</Dans>
@@ -275,13 +275,13 @@
 	<Esoterica Name="Gong_NPJ_10">
 		<DisplayName>Heaven and Earth</DisplayName>
 		<Hide>2</Hide>
-		<Icon>Spr\Object\JN\ZT_NPJ\NPJ_E.png</Icon>
+		<Icon>Spr\Object\JN\ZT_NPJ \n PJ_E.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>20</Difficulty>
 		<Desc>The magic tricks reach the sky, the magic weapon shakes the ground.</Desc>
 		<GLevel>God</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]\n heaven and earth roll all Pills.[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n  heaven and earth roll all Pills.[/color][/size]</EffectDesc>
 		<Dans>
 			<li>NP_TJD</li>
 			<li>NP_THD</li>
@@ -298,7 +298,7 @@
 		<Desc>Red dust becomes immortal, just waiting for your return.</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Mu</Element>
-		<EffectDesc>[size=10][color=#D06508]\nJia Shou Yuan and Jia Hui Ling Multiplier \nPlus Thirty Primal Distractions \nAdd Furnace Ding \nAdd Artifact Success Rate \nAdditional Power and Addition Power[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Jia Shou Yuan and Jia Hui Ling Multiplier  \n Plus Thirty Primal Distractions  \n Add Furnace Ding  \n Add Artifact Success Rate  \n Additional Power and Addition Power[/color][/size]</EffectDesc>
 		<Modifier>Gong_NPJ_15_A</Modifier>
 		<GodSoulCount>30</GodSoulCount>
 	</Esoterica>

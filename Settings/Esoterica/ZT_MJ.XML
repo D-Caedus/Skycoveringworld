@@ -9,7 +9,7 @@
 		<Desc>Physical and mental stability, immovable during the event, maintaining an unmoving will.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Improve Mood Basis and Stability\nDecrease the value of mood affecting mood\nIncrease pain tolerance\nIncrease maximum shield level by 15[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Improve Mood Basis and Stability \n Decrease the value of mood affecting mood \n Increase pain tolerance \n Increase maximum shield level by 15[/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_L</Modifier>
 	</Esoterica>
 	
@@ -22,7 +22,7 @@
 		<Desc>The strongest self-healing magic, known as a drop of blood can restore the true body.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Improve natural recovery ability \nImprove inner door injury recovery ability \nIncrease high and low temperature upper limit \nIncrease longevity \nIncrease fine element conversion rate \nIncrease spiritual recovery speed \nAlchemy skill level upper limit[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Improve natural recovery ability  \n Improve inner door injury recovery ability  \n Increase high and low temperature upper limit  \n Increase longevity  \n Increase fine element conversion rate  \n Increase spiritual recovery speed  \n Alchemy skill level upper limit[/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_Z</Modifier>
 	</Esoterica>
 	
@@ -35,7 +35,7 @@
 		<Desc>Secret words, shrink into inches between steps.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Increase flight training speed \nIncrease movement speed \nIncrease training to find new locations speed \nIncrease combat dodge \nIncrease training experience acquisition \nLearn the magic power[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Increase flight training speed  \n Increase movement speed  \n Increase training to find new locations speed  \n Increase combat dodge  \n Increase training experience acquisition  \n Learn the magic power[/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_X</Modifier>
 		<Magics>
 		<li>ZT_JZM_X</li>
@@ -52,7 +52,7 @@
 		<Desc>The strongest attack technique can evolve all the killing techniques in the world</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Increase the number of magic weapons \nIncrease spell damage \nIncrease magic power \nIncrease spell cooldown[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Increase the number of magic weapons  \n Increase spell damage  \n Increase magic power  \n Increase spell cooldown[/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_D</Modifier>
 	</Esoterica>
 	
@@ -65,7 +65,7 @@
 		<Desc>Different from the general cultivation method, this method favors the matrix method.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Raise the rank of the matrix method \nRaise the limit of the rank of the matrix method \nIncrease the rank of the matrix method \nIncrease the scale of the matrix method [/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Raise the rank of the matrix method  \n Raise the limit of the rank of the matrix method  \n Increase the rank of the matrix method  \n Increase the scale of the matrix method [/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_ZHEN</Modifier>
 	</Esoterica>
 		
@@ -78,7 +78,7 @@
 		<Desc>Majoring in Yuan Shen can improve the spirituality and power of Yuan Shen.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Improve the consciousness \nDecrease the chance \nAdd the bottleneck breakthrough coefficient \nReduce the condemnation (large) \nImprove the potential \nLearn the mystery: Da Yan Gods and Zhou Tian Gods[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Improve the consciousness  \n Decrease the chance  \n Add the bottleneck breakthrough coefficient  \n Reduce the condemnation (large)  \n Improve the potential  \n Learn the mystery: Da Yan Gods and Zhou Tian Gods[/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_X</Modifier>
 		<Magics>
 			<li>Prophesy</li>
@@ -95,7 +95,7 @@
 		<Desc>Life is two, life is two, life is three.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Add 36 Yuanshen Distractions \nImprove the chance \nImprove the value of the hearth \nLearn all kinds of drugs[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Add 36 Yuanshen Distractions  \n Improve the chance  \n Improve the value of the hearth  \n Learn all kinds of drugs[/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_S</Modifier>
 		<GodSoulCount>36</GodSoulCount>
 		<Magics>
@@ -116,7 +116,7 @@
 		<Desc>Instantly inspire yourself ten times the power of attack, defense, and speed up ten times in all directions.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Acquired Secrets: All Words Shield \nAcquired Secrets: All Words Secret Recovery \nAcquired Secrets: All Words Secrets \nAcquired Secrets: All Words Secret Battle[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Acquired Secrets: All Words Shield  \n Acquired Secrets: All Words Secret Recovery  \n Acquired Secrets: All Words Secrets  \n Acquired Secrets: All Words Secret Battle[/color][/size]</EffectDesc>
 
 		<Skills>
 			<li>JZM_J_F</li>
@@ -135,7 +135,7 @@
 		<Desc>Control all the magic weapons in the world.</Desc>
 		<Element>None</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]Learn Mystery: \nRaise the upper limit of the Refiner level by 15 levels[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Learn Mystery:  \n Raise the upper limit of the Refiner level by 15 levels[/color][/size]</EffectDesc>
 		<Modifier>ZT_JZM_B</Modifier>
 		<Magics>
 			<li>BZM_LXCB</li>
@@ -398,7 +398,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock the Forbidden City and the five-color altar \nThe five-colored altar produces the most important building items and props of the sky series. The Forbidden City has hidden secrets and enhanced attributes. \nThe five-colored altar produces five-colored god stones and bodhi \n. Forbidden land produces holy springs and holy fruits that increase attributes.</EffectDesc>
+		<EffectDesc>After learning, you can unlock the Forbidden City and the five-color altar  \n The five-colored altar produces the most important building items and props of the sky series. The Forbidden City has hidden secrets and enhanced attributes.  \n The five-colored altar produces five-colored god stones and bodhi  \n . Forbidden land produces holy springs and holy fruits that increase attributes.</EffectDesc>
 		<Places>
 			<li>Place_HGJD_1</li>
 			<li>Place_WSST</li>
@@ -413,7 +413,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock Lingxu Dongtian \nLingxu Dongtian produces Baicao liquid, which can be used to break through the skills and build the foundation.</EffectDesc>
+		<EffectDesc>After learning, you can unlock Lingxu Dongtian  \n Lingxu Dongtian produces Baicao liquid, which can be used to break through the skills and build the foundation.</EffectDesc>
 		<Places>
 			<li>Place_LXDT</li>
 		</Places>
@@ -427,7 +427,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock the Bronze Immortal Hall \nThe Bronze Immortal Hall, a more mysterious place in the heavenly world, can gain Xuanhuang Qi through experience, and gain attribute enhancement through secrets.</EffectDesc>
+		<EffectDesc>After learning, you can unlock the Bronze Immortal Hall  \n The Bronze Immortal Hall, a more mysterious place in the heavenly world, can gain Xuanhuang Qi through experience, and gain attribute enhancement through secrets.</EffectDesc>
 		<Places>
 			<li>Place_QTXD</li>
 		</Places>
@@ -441,7 +441,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock the place Taixuanmen \nTaixuanmen, a sect in the middle and south areas of the heavenly world. Although it does not have the strong strength of the ancient family, it is also the top 100 superpower in the south.</EffectDesc>
+		<EffectDesc>After learning, you can unlock the place Taixuanmen  \n Taixuanmen, a sect in the middle and south areas of the heavenly world. Although it does not have the strong strength of the ancient family, it is also the top 100 superpower in the south.</EffectDesc>
 		<Places>
 			<li>Place_TXM</li>
 		</Places>
@@ -455,7 +455,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock the fire domain. \nThe fire domain is divided into nine layers. Each layer produces different flames, which have different temperatures and are quite dangerous. However, each type of fire can obtain certain attribute improvements.</EffectDesc>
+		<EffectDesc>After learning, you can unlock the fire domain.  \n The fire domain is divided into nine layers. Each layer produces different flames, which have different temperatures and are quite dangerous. However, each type of fire can obtain certain attribute improvements.</EffectDesc>
 		<Places>
 			<li>Place_HY</li>
 		</Places>
@@ -469,7 +469,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock Zhangjia Village \nThere are many rogues around Zhangjia Village. Killing can get many sources and even god sources, and you can unlock Purple Mountain through Zhangjia Village.</EffectDesc>
+		<EffectDesc>After learning, you can unlock Zhangjia Village  \n There are many rogues around Zhangjia Village. Killing can get many sources and even god sources, and you can unlock Purple Mountain through Zhangjia Village.</EffectDesc>
 		<Places>
 			<li>Place_ZJC</li>
 		</Places>
@@ -483,7 +483,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock the Taichu Ancient Mine \nThe secret of the Taichu Ancient Mine can obtain the materials of the emperor soldiers, and through the training, you can also obtain the materials of the Shenbingfang.</EffectDesc>
+		<EffectDesc>After learning, you can unlock the Taichu Ancient Mine  \n The secret of the Taichu Ancient Mine can obtain the materials of the emperor soldiers, and through the training, you can also obtain the materials of the Shenbingfang.</EffectDesc>
 		<Places>
 			<li>Place_TCGK</li>
 		</Places>
@@ -497,7 +497,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock the Yaochi Holy Land \nYaochi Holy Land, where you can get the peach and water attributes. The source of God is the place to get materials and exercises.</EffectDesc>
+		<EffectDesc>After learning, you can unlock the Yaochi Holy Land  \n Yaochi Holy Land, where you can get the peach and water attributes. The source of God is the place to get materials and exercises.</EffectDesc>
 		<Places>
 			<li>Place_YCSD</li>
 		</Places>
@@ -511,7 +511,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock Yunze Prefecture \nThe secret of Yunze Prefecture can get the remains of the Eucharist, and get a single secret practice method.</EffectDesc>
+		<EffectDesc>After learning, you can unlock Yunze Prefecture  \n The secret of Yunze Prefecture can get the remains of the Eucharist, and get a single secret practice method.</EffectDesc>
 		<Places>
 			<li>Place_YCSD</li>
 		</Places>
@@ -525,7 +525,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock the tomb of the emperor \nThe method of making the chaotic bed in the tomb of the emperor and how to obtain the chaotic stone.</EffectDesc>
+		<EffectDesc>After learning, you can unlock the tomb of the emperor  \n The method of making the chaotic bed in the tomb of the emperor and how to obtain the chaotic stone.</EffectDesc>
 		<Places>
 			<li>Place_YCSD</li>
 		</Places>
@@ -539,7 +539,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>After learning, you can unlock Wanlong Nest \nWanlong Nest is the place where you can get five kinds of spiritual plants covering the sky in the current version. .</EffectDesc>
+		<EffectDesc>After learning, you can unlock Wanlong Nest  \n Wanlong Nest is the place where you can get five kinds of spiritual plants covering the sky in the current version. .</EffectDesc>
 		<Places>
 			<li>Place_YCSD</li>
 		</Places>
@@ -553,7 +553,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>Unlock Holy City after learning\n The holy city can get a lot of sources, and you can unlock Hualongchi through training.</EffectDesc>
+		<EffectDesc>Unlock Holy City after learning \n  The holy city can get a lot of sources, and you can unlock Hualongchi through training.</EffectDesc>
 		<Places>
 			<li>Place_SC</li>
 		</Places>
@@ -733,7 +733,7 @@
 		<StarLevel>1</StarLevel>
 		<Difficulty>1</Difficulty>
 		<Desc>It records the supreme array of powers in Yuan Tianshu, and it is said that it once suppressed a Immortal.</Desc>
-		<EffectDesc>Massively increase the load capacity of the matrix method \nIncrease the size of the matrix method \nUnlock the ancient array: \nFengxian Liuban</EffectDesc>
+		<EffectDesc>Massively increase the load capacity of the matrix method  \n Increase the size of the matrix method  \n Unlock the ancient array:  \n Fengxian Liuban</EffectDesc>
 		<ZhenShapes>
 			<li Name="封仙六禁"> 
 				<ShapeInfo>10|10|5|FXLJ_0|11|10|5|FXLJ_1|11|9|5|FXLJ_2|10|8|5|FXLJ_3|9|8|5|FXLJ_4|9|9|5|FXLJ_5</ShapeInfo>

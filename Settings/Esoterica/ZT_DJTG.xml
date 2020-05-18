@@ -10,8 +10,8 @@
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Lifetime \nFive-dimensional attributes1 \nIncrease
-                the basic spiritual value by 50 \nIncrease the life by 300[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Lifetime  \n Five-dimensional attributes1  \n Increase
+                the basic spiritual value by 50  \n Increase the life by 300[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_1A</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_LH_A1_1">
@@ -24,8 +24,8 @@
                 double testimony of corpse and source.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] Second Life Body \nFive-dimensional attributes1
-                \nIncrease maximum psionic power 2000 \nAcquisition: Spiritualization \nAcquisition:
+            <EffectDesc>[size=10][color=#D06508] Second Life Body  \n Five-dimensional attributes1
+                 \n Increase maximum psionic power 2000  \n Acquisition: Spiritualization  \n Acquisition:
                 Spirit Breath[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_1A_1</Modifier>
             <Magics>
@@ -44,8 +44,8 @@
                 participated in the war of Gods in the late Taikoo period.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] Third Life Body \nPlus Potential 3 \nPlus Spirit
-                Recovery 2 \nPlus State of Mind[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Third Life Body  \n Plus Potential 3  \n Plus Spirit
+                Recovery 2  \n Plus State of Mind[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_1A_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_LH_A2_WL">
@@ -58,8 +58,8 @@
                 it.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease stealth value by 15 \nIncrease magic
-                number by 1 \nAcquisition: \nNo good[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase stealth value by 15  \n Increase magic
+                number by 1  \n Acquisition:  \n No good[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_2A_WL</Modifier>
             <Skills>
                 <li>ZT_WL</li>
@@ -74,7 +74,7 @@
             <Desc>Duan De's unique way of socializing.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nMagic number1\nImprove Qihai skill level 7\n
+            <EffectDesc>[size=10][color=#D06508] \n Magic number1 \n Improve Qihai skill level 7 \n 
                 Raise the limit level of the Imperial 7[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_3A</Modifier>
         </Esoterica>
@@ -87,8 +87,8 @@
             <Desc>Duan De's unique way of socializing.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease the maximum magic power of the magic
-                weapon by 3 \nIncrease the magic magic recovery rate by 2 \nSignificantly
+            <EffectDesc>[size=10][color=#D06508] \n Increase the maximum magic power of the magic
+                weapon by 3  \n Increase the magic magic recovery rate by 2  \n Significantly
                 increase the stealth value of 35[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_3A_1</Modifier>
         </Esoterica>
@@ -101,7 +101,7 @@
             <Desc>Duan De should also have a good relationship with the saint.</Desc>
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease life by 500 \nDown by 50 \nIncrease
+            <EffectDesc>[size=10][color=#D06508] \n Increase life by 500  \n Down by 50  \n Increase
                 maximum psionic power by 4000[/color][/size][/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_3A_2</Modifier>
         </Esoterica>
@@ -115,8 +115,8 @@
             <GLevel>Dan1</GLevel>
             <Element>Mu</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Fourth Life Body \nFive-dimensional attributes1
-                \nPlus furnace ceiling 2500 \nPlus practice speed1[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Fourth Life Body  \n Five-dimensional attributes1
+                 \n Plus furnace ceiling 2500  \n Plus practice speed1[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_1B</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_LH_B1_1">
@@ -127,11 +127,11 @@
             <Difficulty>10</Difficulty>
             <Desc>Duan Deben was a close friend of Emperor Ye Tian, ​​and his alternative
                 sermon lived for fifteen thousand years, surpassing the ordinary imperial
-                emperor.\n Of course I can't add you so much</Desc>
+                emperor. \n  Of course I can't add you so much</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Mu</Element>
-            <EffectDesc>[size=10][color=#D06508] Five generations \nplus life 300 \nplus maximum
-                spiritual power 4 \nplus personal return 2[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Five generations  \n plus life 300  \n plus maximum
+                spiritual power 4  \n plus personal return 2[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_1B_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_LH_B1_2">
@@ -143,8 +143,8 @@
             <Desc>And Gou Chen Guxing, as far as possible reincarnation, alternative sermons.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Mu</Element>
-            <EffectDesc>[size=10][color=#D06508] Sixth Body \nPlus Shield Coefficient 1 \nPlus
-                Shield Value 2.5 \nPlus Five Elements Damage Reduction 0.25[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Sixth Body  \n Plus Shield Coefficient 1  \n Plus
+                Shield Value 2.5  \n Plus Five Elements Damage Reduction 0.25[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_1B_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_DG_B1">
@@ -157,10 +157,10 @@
                 ancestor of Yuantian Master.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] Yizhongtian \nLearned magical powers: multiple
-                techniques of moving mountains and reclamation \nLearned magical powers:
-                Fengshui magical powers \nLearned magical powers: Prayer for Heaven Sutra
-                \nLearned magical powers: Wind Moon Fantasyland[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Yizhongtian  \n Learned magical powers: multiple
+                techniques of moving mountains and reclamation  \n Learned magical powers:
+                Fengshui magical powers  \n Learned magical powers: Prayer for Heaven Sutra
+                 \n Learned magical powers: Wind Moon Fantasyland[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_DG_1B</Modifier>
             <Magics>
                 <li>BuildMine</li>
@@ -191,9 +191,9 @@
             <Desc>Accept the heaven and earth aura, the art of creation.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Tu</Element>
-            <EffectDesc>[size=10][color=#D06508] Double Sky \nPlus Sky Condemnation Value 30 \nPlus
-                Alchemy Yield 2 \nAdd Alchemy Level Cap 10 \nLearn Two Fortune Telling
-                Powers \nLearn Super Powers: Refining Spirit Crystals \nLearn Three Kinds
+            <EffectDesc>[size=10][color=#D06508] Double Sky  \n Plus Sky Condemnation Value 30  \n Plus
+                Alchemy Yield 2  \n Add Alchemy Level Cap 10  \n Learn Two Fortune Telling
+                Powers  \n Learn Super Powers: Refining Spirit Crystals  \n Learn Three Kinds
                 of Tempering Powers[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_DG_2B</Modifier>
             <Magics>
@@ -215,8 +215,8 @@
             <Desc>You can't be too dude.</Desc>
             <GLevel>Dan1</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nPower of Additive Method 5 \nSubtraction Cooldown
-                0.2 \nMaximum Level of Additive Method 7 \nLearned[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Power of Additive Method 5  \n Subtraction Cooldown
+                0.2  \n Maximum Level of Additive Method 7  \n Learned[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_LH_3B_DD</Modifier>
             <Skills>
                 <li>DJTG_DD</li>
@@ -231,8 +231,8 @@
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Seventh generation \nAdditional power5 \nNumber
-                of magic powers1 \nReduce spell cost by 0.2[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Seventh generation  \n Additional power5  \n Number
+                of magic powers1  \n Reduce spell cost by 0.2[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_1C</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_SJ_C1_1">
@@ -246,8 +246,8 @@
                 he went to see Duan De and funeral for the eighth time. 2333</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] The eighth \n Increase the maximum shield level
-                by 14\n lowering condemnation 60[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] The eighth  \n  Increase the maximum shield level
+                by 14 \n  lowering condemnation 60[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_1C_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_SJ_C1_2">
@@ -259,8 +259,8 @@
             <Desc>After awakening, ascend to the red dust Immortal. As far as you go. .</Desc>
             <GLevel>Qi</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] Ninth Life \nMaximum Power of Additive Power3
-                \nAdditional Power of Power5 \nAdditional Power of Power6[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Ninth Life  \n Maximum Power of Additive Power3
+                 \n Additional Power of Power5  \n Additional Power of Power6[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_1C_2</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_SJ_C2_YQ">
@@ -272,8 +272,8 @@
             <Desc>One of the best in the chaos era Shinto cultivation system</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nNumber of magic weapons 1 \nIncrease personal
-                rebirth 3 \nLearn Mystery: God of Chaos[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Number of magic weapons 1  \n Increase personal
+                rebirth 3  \n Learn Mystery: God of Chaos[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_2C_YQ</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_SJ_C1_YQ_1">
@@ -285,8 +285,8 @@
             <Desc>One of the best in the chaos era Shinto cultivation system</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nIncrease the maximum spell skill level by 8
-                \nIncrease magic power4 \nIncrease magic number1[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Increase the maximum spell skill level by 8
+                 \n Increase magic power4  \n Increase magic number1[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_2C_YQ_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_SJ_C1_YQ_2">
@@ -298,8 +298,8 @@
             <Desc>One of the best in the chaos era Shinto cultivation system</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nReduce the cooldown of spells by 0.5 \nIncrease
-                the time of the arrival of the scourge 3000 \nIncrease the recovery speed
+            <EffectDesc>[size=10][color=#D06508] \n Reduce the cooldown of spells by 0.5  \n Increase
+                the time of the arrival of the scourge 3000  \n Increase the recovery speed
                 of internal injuries 5[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_2c_YQ_2</Modifier>
         </Esoterica>
@@ -312,8 +312,8 @@
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Wraith \nMaximum bonus level is 8th level \nPlus
-                exploratory exploration speed 5 \nDecrease scourge 30[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Wraith  \n Maximum bonus level is 8th level  \n Plus
+                exploratory exploration speed 5  \n Decrease scourge 30[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_3C</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_SJ_C3_1">
@@ -325,8 +325,8 @@
             <Desc>The founder of the land government</Desc>
             <GLevel>Dan2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] Overcast \nPlus Shield Coefficient1 \nReduces
-                Mana Cost by 0.2 \nPlus Shield Strength Value2[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Overcast  \n Plus Shield Coefficient1  \n Reduces
+                Mana Cost by 0.2  \n Plus Shield Strength Value2[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_SJ_3C_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_HL_D1">
@@ -338,8 +338,8 @@
             <GLevel>God</GLevel>
             <Element>Jin</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Carnal array \nPlus Aura Recovery Speed ​​4 \nAdd
-                Matrix Level 15 \nLearn Mystery: Third Kill Formation[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Carnal array  \n Plus Aura Recovery Speed ​​4  \n Add
+                Matrix Level 15  \n Learn Mystery: Third Kill Formation[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_HL_1D</Modifier>
             <Skills>
                 <li>DJTG_DSS</li>
@@ -356,8 +356,8 @@
                 return to one.</Desc>
             <GLevel>God</GLevel>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] Jiuyin \nPlus Refiner Success Rate \nPlus Refiner
-                Speed ​​\nAdd Magical Tool Success Rate[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] Jiuyin  \n Plus Refiner Success Rate  \n Plus Refiner
+                Speed ​​ \n Add Magical Tool Success Rate[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_HL_2D</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_HL_D2_1">
@@ -370,8 +370,8 @@
                 life bears the ultimate fruit, and a reincarnation, and finally ninety-nine
                 return to one.</Desc>
             <GLevel>God2</GLevel>
-            <EffectDesc>[size=10][color=#D06508] 归一 \nRefiner Quality Bonus \nRefined Artifact
-                Probability \nLearned[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] 归一  \n Refiner Quality Bonus  \n Refined Artifact
+                Probability  \n Learned[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_HL_2D_1</Modifier>
             <Fabaos>
                 <li>DJTG_LHY</li>
@@ -387,7 +387,7 @@
                 the immortal medicine into a secret technique.</Desc>
             <GLevel>God</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nAcquisition of Mystery: \nImmortal Elixir[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Acquisition of Mystery:  \n Immortal Elixir[/color][/size]</EffectDesc>
             <Skills>
                 <li>DJTG_BSY</li>
             </Skills>
@@ -403,8 +403,8 @@
             <GLevel>God2</GLevel>
             <Element>Jin</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nIncrease the spiritual power by a large margin
-                4 \nAdd the condemnation value 30 \nAdd the magic power 10[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Increase the spiritual power by a large margin
+                4  \n Add the condemnation value 30  \n Add the magic power 10[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_XT_1F</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_XT_F1_1">
@@ -418,8 +418,8 @@
                 with his mouth closed.</Desc>
             <GLevel>God2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] \nPlus Heaven's Condemnation Value 50 \nAdditional
-                Power of Power10 \nAdditional Power of Recovery 2[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Plus Heaven's Condemnation Value 50  \n Additional
+                Power of Power10  \n Additional Power of Recovery 2[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_XT_1F_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_XT_F2">
@@ -432,8 +432,8 @@
             <GLevel>God2</GLevel>
             <Element>Jin</Element>
             <Type>Gong</Type>
-            <EffectDesc>[size=10][color=#D06508] \nPlus Aura Recovery Speed ​​3 \nPlus Aura Maximum
-                4 \nMinus Condemnation 20[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Plus Aura Recovery Speed ​​3  \n Plus Aura Maximum
+                4  \n Minus Condemnation 20[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_XT_2F</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_XT_F2_1">
@@ -446,8 +446,8 @@
                 improvement to Duan De.</Desc>
             <GLevel>God2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508] \nPlus shield value 2 \nAdd bonus magic power
-                recovery 2 \nMinus condemnation value 40[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508]  \n Plus shield value 2  \n Add bonus magic power
+                recovery 2  \n Minus condemnation value 40[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_XT_2F_1</Modifier>
         </Esoterica>
         <Esoterica Name="Gong_DJTG_XT_ZD">
@@ -460,9 +460,9 @@
                 reincarnation, and the assembly was positive.</Desc>
             <GLevel>God2</GLevel>
             <Element>Jin</Element>
-            <EffectDesc>[size=10][color=#D06508]\nJia Shou Yuan and Ling Hui Multiplier \nPlus
-                Thirty Primal Distractions \nPlus Furnace Ding \nPlus Artifact Success
-                Rate \nAdditional Power and Addition Power[/color][/size]</EffectDesc>
+            <EffectDesc>[size=10][color=#D06508] \n Jia Shou Yuan and Ling Hui Multiplier  \n Plus
+                Thirty Primal Distractions  \n Plus Furnace Ding  \n Plus Artifact Success
+                Rate  \n Additional Power and Addition Power[/color][/size]</EffectDesc>
             <Modifier>Gong_DJTG_XT_DZ</Modifier>
             <GodSoulCount>30</GodSoulCount>
         </Esoterica>

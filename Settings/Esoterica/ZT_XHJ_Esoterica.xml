@@ -11,7 +11,7 @@
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]A heavy day \n plus five dimensions \n plus the maximum spiritual power \n plus the perception value of the perception coefficient \n learned secret technique: Yaochi[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]A heavy day  \n  plus five dimensions  \n  plus the maximum spiritual power  \n  plus the perception value of the perception coefficient  \n  learned secret technique: Yaochi[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_1A</Modifier>
 		<Skills>
 			<li>XHJ_YC</li>
@@ -26,7 +26,7 @@
 		<Desc>Yaochi, the name of the pool on the Kunlun Mountain in mythology, is the place where the West Emperor mother lived.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    Double Heaven \nAdd five-dimensional attributes \ nAdd personal aura \ nAdd personal rejuvenation[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Double Heaven  \n Add five-dimensional attributes \ nAdd personal aura \ nAdd personal rejuvenation[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_1A_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_LH_A1_2">
@@ -38,7 +38,7 @@
 		<Desc>Yaochi, the name of the pool on the Kunlun Mountain in mythology, is the place where the West Emperor mother lived.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    Triple Sky \nAdd Potential \nAdd Magic Power Regen Multiplier \nAdd Mood[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    Triple Sky  \n Add Potential  \n Add Magic Power Regen Multiplier  \n Add Mood[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_1A_2</Modifier>
 	</Esoterica>
 	
@@ -46,15 +46,15 @@
 	
 	
 	<Esoterica Name="Gong_XHJ_LH_A2">
-		<DisplayName>霞雾缭绕</DisplayName>
+		<DisplayName>The mist is in the fog</DisplayName>
 		<Hide>2</Hide>
 		<Icon>Spr\Object\JN\ZT_XHJ_DJ\XWLR.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>15</Difficulty>
-		<Desc>瑶池如仙境，常有仙雾朦胧。</Desc>
+		<Desc>The pool is like a wonderland, often with a fairy mist.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n加炼丹等级\n习得神通：造化灵土\n习得  秘术：霞雾缭绕[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n The Grade of The Garindan \n Learns the Gods: Making the Spirit of the Earth and the Secret \n learning: Xia Mist[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_2A</Modifier>
 		<Skills>
 			<li>XHJ_XWLR</li>
@@ -66,15 +66,15 @@
 		</Magics>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_LH_A2_1">
-		<DisplayName>霞雾缭绕</DisplayName>
+		<DisplayName>The mist is in the fog</DisplayName>
 		<Hide>2</Hide>
 		<Icon>Spr\Object\JN\ZT_XHJ_DJ\XWLR.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>10</Difficulty>
-		<Desc>瑶池如仙境，常有仙雾朦胧。</Desc>
+		<Desc>The pool is like a wonderland, often with a fairy mist.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n加护盾值\n习得神通：赋灵术\n习得神通：甘露术[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n The Value of the Shield \n Learns God: The Ethers and the Acquisition of God: The Glydew[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_2A_1</Modifier>
 		
 		<Magics>
@@ -84,15 +84,15 @@
 		</Magics>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_LH_A2_2">
-		<DisplayName>霞雾缭绕</DisplayName>
+		<DisplayName>The mist is in the fog</DisplayName>
 		<Hide>2</Hide>
 		<Icon>Spr\Object\JN\ZT_XHJ_DJ\XWLR.png</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>10</Difficulty>
-		<Desc>瑶池如仙境，常有仙雾朦胧。</Desc>
+		<Desc>The pool is like a wonderland, often with a fairy mist.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n加五维属性\n提高修炼速度\n减低天谴值[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n Plus five-dimensional properties \n improve the speed of practice \n reduce the value of the heavens[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_2A_2</Modifier>
 		
 	</Esoterica>
@@ -108,7 +108,7 @@
 		<Desc>瑶池修行，大部分以女修为主。</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n提升灵气最大值\n提高寿命\n提高灵气恢复速度[/color][/size][/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 提升灵气最大值 \n 提高寿命 \n 提高灵气恢复速度[/color][/size][/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_3A</Modifier>
 	</Esoterica>
 	
@@ -121,7 +121,7 @@
 		<Desc>瑶池修行，大部分以女修为主。</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n大幅提升魅力值\n提高寿命\n大幅提高炼丹等级上限[/color][/size][/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 大幅提升魅力值 \n 提高寿命 \n 大幅提高炼丹等级上限[/color][/size][/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_3A_1</Modifier>
 	</Esoterica>
 	
@@ -136,7 +136,7 @@
 		<GLevel>Dan1</GLevel>
 		<Element>Shui</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    一重天    \n加炉鼎值2000\n加机缘1\n加魅力1[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    一重天     \n 加炉鼎值2000 \n 加机缘1 \n 加魅力1[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_1B</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_LH_B1_1">
@@ -148,7 +148,7 @@
 		<Desc>又西三百五十里，曰西皇之山</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    二重天     \n加炼丹技能等级上限10\n加炼丹速度加成1[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    二重天      \n 加炼丹技能等级上限10 \n 加炼丹速度加成1[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_1B_1</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_LH_B1_2">
@@ -160,7 +160,7 @@
 		<Desc>五行神藏，勾天设体，引动精气神，布散到全身，外达于皮毛，吐纳天地本源，蕴含勃勃生机。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    三重天    \n加灵力恢复50\n加额外炼丹加成4[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    三重天     \n 加灵力恢复50 \n 加额外炼丹加成4[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_1B_2</Modifier>
 	</Esoterica>
 	
@@ -175,7 +175,7 @@
 		<Desc>迩，近也，近言而善，易以进人。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    一重天    \n加炼丹速度\n加炼丹成功率\n习得神通：灵粹之法及清心咒\n习得神通：灵犀咒及心印诀\n习得神通：风月幻境[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    一重天     \n 加炼丹速度 \n 加炼丹成功率 \n 习得神通：灵粹之法及清心咒 \n 习得神通：灵犀咒及心印诀 \n 习得神通：风月幻境[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_DG_1B</Modifier>
 		<Magics>
 			<li>LingXiZhou</li>
@@ -195,7 +195,7 @@
 		<Desc>迩，近也，近言而善，易以进人。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    二重天    \n减低天谴值\n加炼丹产量\n习得再造术\n习得神通：醍醐灌顶\n习得神通：九阴真水界[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    二重天     \n 减低天谴值 \n 加炼丹产量 \n 习得再造术 \n 习得神通：醍醐灌顶 \n 习得神通：九阴真水界[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_DG_2B</Modifier>
 		<Magics>
 			<li>PrayForZhenShuiJieJie_Gong1</li>
@@ -216,7 +216,7 @@
 		<Desc>瑶池专修的提高法术威能的技能。</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n加法术威力\n降法术冷却 \n习得  神通和秘术：\n瑶池圣术[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 加法术威力 \n 降法术冷却  \n 习得  神通和秘术： \n 瑶池圣术[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_LH_3B_YCSS</Modifier>
 		<Skills>
 			<li>XHJ_DJ_YCSS</li>
@@ -237,7 +237,7 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Shui</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]   上卷    \n加领悟悟性\n法宝数量\n加法宝威力[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   上卷     \n 加领悟悟性 \n 法宝数量 \n 加法宝威力[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_SJ_1C</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_SJ_C1_1">
@@ -249,7 +249,7 @@
 		<Desc>内敛心玄，外张神形。</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]   下卷    \n提高心境\n加水属性护盾值\n加护盾强度度[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]   下卷     \n 提高心境 \n 加水属性护盾值 \n 加护盾强度度[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_SJ_1C_1</Modifier>
 	</Esoterica>
 	
@@ -263,7 +263,7 @@
 		<Desc>瑶池令了金母名，找齐凰胎归家中</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n习得  丹方：黄芽秘丹方\n天格[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 习得  丹方：黄芽秘丹方 \n 天格[/color][/size]</EffectDesc>
 		<Dans>
 			<li>BasePracticeDrug</li>
 			<li>Dan_Restore</li>
@@ -314,7 +314,7 @@
 		<Desc>瑶池令了金母名，找齐凰胎归家中</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n习得  丹方：金蚕卧丹发[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 习得  丹方：金蚕卧丹发[/color][/size]</EffectDesc>
 		<Dans>
 			<li>Dan_FiveBase1</li>
 			<li>Dan_FiveBase2</li>
@@ -376,7 +376,7 @@
 		<GLevel>Dan2</GLevel>
 		<Element>Shui</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]        \n加历练速度\n加个人灵气\n加个人回灵[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]         \n 加历练速度 \n 加个人灵气 \n 加个人回灵[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_SJ_3C</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_SJ_C3_1">
@@ -388,7 +388,7 @@
 		<Desc>瑶池特有的心法之一，能够极大提高灵气和历练速度</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]       \n加法术威力\n加法术冷却时间\n加潜力值[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]        \n 加法术威力 \n 加法术冷却时间 \n 加潜力值[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_SJ_3C_1</Modifier>
 	</Esoterica>
 	
@@ -400,7 +400,7 @@
 		<Desc>仙泪绿金所铸神塔，塔出，人灭。</Desc>
 		<GLevel>God</GLevel>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    器胚    \n加炼器成功率\n加炼器速度\n加神器成功率[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    器胚     \n 加炼器成功率 \n 加炼器速度 \n 加神器成功率[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_HL_2D</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_HL_D2_1">
@@ -411,7 +411,7 @@
 		<Difficulty>10</Difficulty>
 		<Desc>仙泪绿金所铸神塔，塔出，人灭。</Desc>
 		<GLevel>God2</GLevel>
-		<EffectDesc>[size=10][color=#D06508]    塔成    \n炼器品质加成\n炼成神器概率\n习得 极道帝兵：西皇塔[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    塔成     \n 炼器品质加成 \n 炼成神器概率 \n 习得 极道帝兵：西皇塔[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_HL_2D_1</Modifier>
 		<Fabaos>
 			<li>XHJ_XHT</li>
@@ -428,7 +428,7 @@
 		<Desc>蕴含天道的极强大阵，主稳定性。</Desc>
 		<GLevel>God</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n习得  阵法：仙境道纹\n 提高护盾等级上限\n 提高阵法负荷[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 习得  阵法：仙境道纹 \n  提高护盾等级上限 \n  提高阵法负荷[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_HL_SS</Modifier>
 		<ZhenNodes>
 			<li>ZT_xjdw</li>
@@ -471,7 +471,7 @@
 		<GLevel>God2</GLevel>
 		<Element>Shui</Element>
 		<Type>Gong</Type>
-		<EffectDesc>[size=10][color=#D06508]    一重天    \n加阵法等级上限\n加灵气最大值\n加炉鼎[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    一重天     \n 加阵法等级上限 \n 加灵气最大值 \n 加炉鼎[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_XT_2F</Modifier>
 	</Esoterica>
 	<Esoterica Name="Gong_XHJ_XT_F2_1">
@@ -483,7 +483,7 @@
 		<Desc>仙池水边，佳人倩影，可曾落笔为素银。</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]    二重天    \n加水属性伤害减免\n减天谴值\n加阵法等级[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]    二重天     \n 加水属性伤害减免 \n 减天谴值 \n 加阵法等级[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_XT_2F_1</Modifier>
 	</Esoterica>
 	
@@ -496,7 +496,7 @@
 		<Desc>开通人体九窍，分出九道元神</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n习得  丹方：九窍玲珑丹[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 习得  丹方：九窍玲珑丹[/color][/size]</EffectDesc>
 		<Dans>
 			<li>Item_Dan_JQLLD</li>
 		</Dans>
@@ -512,7 +512,7 @@
 		<Desc>红尘证道，瑶池仙中仙，身在人间仙境，感悟天地。</Desc>
 		<GLevel>God2</GLevel>
 		<Element>Shui</Element>
-		<EffectDesc>[size=10][color=#D06508]\n加寿元和加回灵倍率\n加三十道元神分神\n加炉鼎\n加神器成功率\n加术法威力和加法宝威力[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508] \n 加寿元和加回灵倍率 \n 加三十道元神分神 \n 加炉鼎 \n 加神器成功率 \n 加术法威力和加法宝威力[/color][/size]</EffectDesc>
 		<Modifier>Gong_XHJ_XT_DZ</Modifier>
 		<GodSoulCount>30</GodSoulCount>
 	</Esoterica>
